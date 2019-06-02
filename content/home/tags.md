@@ -10,14 +10,13 @@ subtitle = ""
 
 date_format = "Jan 2006"
 
-
-[[item]]
-  title = "Teaching Assistant in Computer Science Degree"
-  description = "Computer Networks"
-  organization = "University of Castilla-La Mancha"  
-  url = ""
-  certificate_url = "https://www.coursera.org"
+[[experience]]
+  title = "Teaching Assistant"
+  company = "University of Castilla-La Mancha"
+  company_url = "www.uclm.es"
+  location = "Albacete (Spain)"
   date_start = "2018-02-01"
   date_end = "2018-05-07"
+  description = "Computer Science Degree. Computer Networks"
 
 +++
