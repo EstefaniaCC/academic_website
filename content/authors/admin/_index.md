@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include wireless and mobile communications, SDN/NFV and network management.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Wireless and mobile 5G systems
+- SDN/NFV
+- AI-enabled networking
+- Network management.
 
 education:
   courses:
@@ -73,6 +74,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Estefanı́a Coronado is an Expert Researcher in the Wireless and Networked Systems Unit at FBK CREATE-NET (Italy). In 2018 she completed her PhD at the University of Castilla-La Mancha (Spain) on multimedia distribution over SD-WLANs. She received the M.Sc. degrees in Computer Engineering and Advanced Computer Technologies in 2014 and 2015 from the same university. She published more than 15 papers in international journals and conferences. Her research interests include wireless and mobile communications, 5G systems, SDN/NFV, AI-enabled networking and network management.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
