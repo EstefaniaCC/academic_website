@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Estefania Coronado
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Expert Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: FBK CREATE-NET
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include wireless and mobile communications, SDN/NFV and network management.
 
 interests:
 - Artificial Intelligence
@@ -27,15 +27,18 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Advanced Computer Technologies
+    institution: University of Castilla-La Mancha (Spain)
+    year: 2018
+  - course: MSc in Advanced Computer Technologies
+    institution: University of Castilla-La Mancha (Spain)
+    year: 2015
+  - course: MSc in Computer Engineering
+    institution: University of Castilla-La Mancha (Spain)
+    year: 2014
+  - course: BSc in Computer Science
+    institution: University of Castilla-La Mancha (Spain)
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +50,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/CEstefaniaC
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Y50tTWsAAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/EstefaniaCC
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
