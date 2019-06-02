@@ -15,21 +15,26 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "wifi"
+  icon_pack = "fas"
+  name = "Wireless and Mobile Networks"
+  description = "Wi-Fi and 5G"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "server"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "SDN/NFV"
+    
 [[feature]]
-  icon = "camera-retro"
+  icon = "spinner"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Programming"
+  description = "C/C++, Python, Bash, Java"
+
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Language"
+  description = "English, Spanish, German (Lim.), Italian (Lim.)"
 
 +++
