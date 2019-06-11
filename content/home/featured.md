@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Top Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -53,7 +53,16 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  # text_color_light = true
+
+- <strong><font size="4">Journals</font></strong>
+<ol>
+<li>J1</li>
+<li>J2</li>
+<li>J3</li>
+</ol>
+
+
   
 [advanced]
  # Custom CSS. 
