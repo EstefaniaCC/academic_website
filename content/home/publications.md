@@ -58,26 +58,6 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-
-Conf
-- <strong><font size="4">Journals</font></strong>
-Journals?
-<ol>
-<li>J1</li>
-<li>J2</li>
-<li>J3</li>
-</ol>
-
-
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
-
-
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
