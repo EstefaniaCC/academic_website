@@ -3,8 +3,8 @@
 # This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Top Publications"
@@ -58,6 +58,17 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
+
+Conf
+- <strong><font size="4">Journals</font></strong>
+Journals?
+<ol>
+<li>J1</li>
+<li>J2</li>
+<li>J3</li>
+</ol>
+
+
 [advanced]
  # Custom CSS. 
  css_style = ""

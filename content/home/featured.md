@@ -4,8 +4,8 @@
 # `featured = true` in their front matter.
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = false  # This file represents a page section.
+active = false  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Publications"
@@ -55,14 +55,6 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true
 
-Conf
-- <strong><font size="4">Journals</font></strong>
-Journals?
-<ol>
-<li>J1</li>
-<li>J2</li>
-<li>J3</li>
-</ol>
 
 
   
