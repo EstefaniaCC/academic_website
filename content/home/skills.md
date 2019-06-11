@@ -18,23 +18,24 @@ subtitle = ""
   icon = "wifi"
   icon_pack = "fas"
   name = "Wireless and Mobile Networks"
-  description = "Wi-Fi and 5G"
+  description = "Research and prototyping in control and data planes Wi-Fi and 5G"
   
 [[feature]]
   icon = "server"
   icon_pack = "fas"
   name = "SDN/NFV"
+  description = "Virtualization technologies SDN and NFV"
     
 [[feature]]
   icon = "spinner"
   icon_pack = "fas"
-  name = "Programming"
+  name = "Programming Skills"
   description = "C/C++, Python, Bash, Java"
 
-[[feature]]
-  icon = "language"
-  icon_pack = "fas"
-  name = "Language"
-  description = "English, Spanish, German (Lim.), Italian (Lim.)"
+#[[feature]]
+#  icon = "language"
+#  icon_pack = "fas"
+#  name = "Languages"
+#  description = "English, Spanish, German (Lim.), Italian (Lim.)"
 
 +++
