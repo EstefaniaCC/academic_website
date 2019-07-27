@@ -66,11 +66,11 @@ subtitle = "Journals"
  
  # CSS class.
  css_class = ""
++++
 
 ## Heading 2
 1. First item
 2. Another item
-+++
 
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
