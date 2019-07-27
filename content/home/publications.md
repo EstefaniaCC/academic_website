@@ -66,6 +66,10 @@ subtitle = "Journals"
  
  # CSS class.
  css_class = ""
+
+## Heading 2
+1. First item
+2. Another item
 +++
 
 {{% alert note %}}
