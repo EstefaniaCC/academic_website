@@ -22,9 +22,16 @@ date_format = "Jan 2006"
   company = "University of Castilla-La Mancha"
   company_url = "www.uclm.es"
   location = "Albacete (Spain)"
-  date_start = "2018-02-01"
+  date_start = "2015-03-01"
   date_end = "2018-05-07"
-  description = "Computer Science Degree. Computer Networks"
+  description = ""
 
-
+  Degrees and Subjects:
+  
+  * 02/2018 – 05/2018. Computer Science Degree: Computer Networks (I)
+  * 01/2017 – 04/2017. Computer Science Degree: Computer Networks (I)
+  * 01/2017 – 04/2017. Computer Science Degree: Computer Structure
+  * 12/2015 – 09/2015. Computer Science Degree: Computer Architecture
+  * 03/2015 – 05/2015. Forestry and Natural Environment Engineering Degree: Statistics and Computational Methods
+  * 03/2015 – 05/2015. Food and Agricultural Engineering Degree: Statistics and Computational Methods
 +++
