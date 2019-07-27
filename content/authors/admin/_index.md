@@ -49,12 +49,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/CEstefaniaC
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9528-6974
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Y50tTWsAAAAJ&hl
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Estefania_Coronado_Calero
 - icon: github
   icon_pack: fab
   link: https://github.com/EstefaniaCC
@@ -74,5 +77,5 @@ user_groups:
 - Visitors
 ---
 
-Estefanı́a Coronado is an Expert Researcher in the Wireless and Networked Systems Unit at FBK CREATE-NET (Italy). In 2018 she completed her PhD at the University of Castilla-La Mancha (Spain) on multimedia distribution over SD-WLANs. She received the M.Sc. degrees in Computer Engineering and Advanced Computer Technologies in 2014 and 2015 from the same university. She published more than 15 papers in international journals and conferences. Her research interests include wireless and mobile communications, 5G systems, SDN/NFV, AI-enabled networking and network management.
+Estefanı́a Coronado is an Expert Researcher in the Wireless and Networked Systems Unit at FBK CREATE-NET (Italy). In 2018 she completed her PhD at the University of Castilla-La Mancha (Spain) on multimedia distribution over SD-WLANs. She received the M.Sc. degrees in Computer Engineering and Advanced Computer Technologies in 2014 and 2015 from the same university. She published more than 20 papers in international journals and conferences. Her research interests include wireless and mobile communications, 5G systems, SDN/NFV, AI-enabled networking and network management.
 

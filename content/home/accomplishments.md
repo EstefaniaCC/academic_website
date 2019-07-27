@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-04-30"
   date_end = ""
-  description = "Addressing Bitrate and Latency Requirements for Connected Vehicles"
+  description = "Title: Addressing Bitrate and Latency Requirements for Connected Vehicles"
 
 [[item]]
   organization = "Ministry of Economy and Competitiveness of Spain"
