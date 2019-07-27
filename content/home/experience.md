@@ -46,8 +46,8 @@ date_format = "Jan 2006"
   company = "CREATE-NET"
   company_url = ""
   location = "Trento, Italy"
-  date_start = "2017-12-25"
-  date_end = "2016-02-25"
+  date_start = "2016-02-25"
+  date_end = "2017-12-25"
   description = """Multicasting, network slicing and resource management in SDN-based 802.11 WLANs"""
 
 [[experience]]
