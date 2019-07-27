@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Top Publications"
+title = "Recent Publications"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 5
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -56,8 +56,16 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  # text_color_light = true
   
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
