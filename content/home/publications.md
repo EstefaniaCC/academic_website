@@ -1,4 +1,4 @@
-## Journals
+
 +++
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
@@ -73,3 +73,4 @@ subtitle = ""
  css_class = ""
 +++
 
+## Journals
