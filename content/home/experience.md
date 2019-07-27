@@ -44,7 +44,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Visiting Researcher"
   company = "CREATE-NET"
-  company_url = ""
+  company_url = "https://www.fbk.eu/en/"
   location = "Trento, Italy"
   date_start = "2016-02-25"
   date_end = "2017-12-25"
@@ -57,6 +57,6 @@ date_format = "Jan 2006"
   location = "Albacete, Spain"
   date_start = "2013-10-01"
   date_end = "2014-05-31"
-  description = """Improvement of video streaming efficiency over IEEE 802.11 netwroks"""
+  description = """Improvement of video streaming efficiency over IEEE 802.11 WLANs"""
 
 +++
