@@ -27,11 +27,37 @@ date_format = "Jan 2006"
   description = """
   Degrees and Subjects:
   
-  * 02/2018 – 05/2018. Computer Science Degree: Computer Networks (I).
-  * 01/2017 – 04/2017. Computer Science Degree: Computer Networks (I).
-  * 01/2017 – 04/2017. Computer Science Degree: Computer Structure.
-  * 12/2015 – 09/2015. Computer Science Degree: Computer Architecture.
-  * 03/2015 – 05/2015. Forestry and Natural Environment Engineering Degree: Statistics and Computational Methods.
-  * 03/2015 – 05/2015. Food and Agricultural Engineering Degree: Statistics and Computational Methods.
+  * **02/2018 – 05/2018**. _Computer Science Degree:_ Computer Networks (I).
+  * **01/2017 – 04/2017**. _Computer Science Degree:_ Computer Networks (I).
+  * **01/2017 – 04/2017**. _Computer Science Degree:_ Computer Structure.
+  * **12/2015 – 09/2015**. _Computer Science Degree:_ Computer Architecture.
+  * **03/2015 – 05/2015**. _Forestry and Natural Environment Engineering Degree:_ Statistics and Computational Methods.
+  * **03/2015 – 05/2015**. _Food and Agricultural Engineering Degree:_ Statistics and Computational Methods.
+"""
+
+
+[[experience]]
+  title = "MSc Thesis Supervision"
+  company = "Polytechnic University of Valencia"
+  company_url = "www.upv.es"
+  location = "Valencia (Spain)"
+  date_start = "2018-10-01"
+  date_end = "2019-07-15"
+  description = """
+  _Association and reassociation of devices to Wi-Fi networks using SDN_, Blas Gomez Mora. 
+"""
+
+[[experience]]
+  title = "BSc Thesis Supervision"
+  company = "University of Castilla-La Mancha"
+  company_url = "www.uclm.es"
+  location = "Albacete (Spain)"
+  date_start = "2014-10-01"
+  date_end = "2018-06-15"
+  description = """
+   * **06/2018**. _Extension of a network management system based on Nagios_, Cristian Cano del Saz.
+   * **02/2017**. _Analysis of a public wireless network_, Leopoldo Moreno Gonzalez.
+   * **06/2015**. _Design of a network control system based on Arduino_, Jeferson Arboleda Sanchez.
+   * **02/2015**. _Design of a corporate multiservice network_, Sergio Araque Castellanos.
 """
 +++
