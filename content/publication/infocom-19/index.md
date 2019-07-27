@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proc. of IEEE INFOCOM*"
+widget: publications_demos
 ---
 
