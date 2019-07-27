@@ -1,3 +1,4 @@
+## Journals
 +++
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
@@ -7,14 +8,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+#{{% alert note %}}
+#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+#{{% /alert %}}
 
 title = "Publications"
 subtitle = ""
-
-## Journals
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
