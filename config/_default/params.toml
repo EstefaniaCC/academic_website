@@ -10,6 +10,9 @@ day_night = true
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
 font = "default"
+font_size = 16
+font_size_small = "12"
+
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
