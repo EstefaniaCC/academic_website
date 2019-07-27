@@ -15,7 +15,3 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-[dev]
-  command = "yarn start"
-  port = 3000
-  publish = "dist"
