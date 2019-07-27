@@ -18,27 +18,45 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Expert Researcher"
+  company = "Fondazione Bruno Kessler"
+  company_url = "https://www.fbk.eu/en/"
+  location = "Trento, Italia"
+  date_start = "2018-06-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Research and prototyping in programmable radio access networks.
+  * Contribution to R&D projects.
+  * Supervision of MSc students.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Predoctoral Research Scholarship"
+  company = "University of Castilla-La Mancha"
+  company_url = "www.uclm.es"
+  location = "Albacete, Spain"
+  date_start = "2014-06-01"
+  date_end = "2018-05-31"
+  description = """Design of ML algorithms for QoS provisioning and prototyping in programmable IEEE 802.11 networks."""
+
+[[experience]]
+  title = "Visiting Researcher"
+  company = "CREATE-NET"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Trento, Italy"
+  date_start = "2017-12"
+  date_end = "2016-02"
+  description = """Multicasting, network slicing and resource management in SDN-based 802.11 WLANs"""
+
+[[experience]]
+  title = "R&D Project Assistant"
+  company = "University of Castilla-La Mancha"
+  company_url = "www.uclm.es"
+  location = "Albacete, Spain"
+  date_start = "2013-10-01"
+  date_end = "2014-05-31"
+  description = """Improvement of video streaming efficiency over IEEE 802.11 netwroks"""
 
 +++
