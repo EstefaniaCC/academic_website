@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   date_start = "2015-03-01"
   date_end = "2018-05-07"
   description = ""
-
   Degrees and Subjects:
   
   * 02/2018 – 05/2018. Computer Science Degree: Computer Networks (I)
