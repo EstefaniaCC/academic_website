@@ -9,7 +9,7 @@ day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = "classic"
 font_size = 16
 font_size_small = "12"
 
