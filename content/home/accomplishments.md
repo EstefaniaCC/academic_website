@@ -22,11 +22,11 @@ date_format = "Jan 2006"
   organization = "IEEE INFOCOM"
   organization_url = "https://infocom2019.ieee-infocom.org/"
   title = "Best Demo Paper Award"
-  url = ""
+  url = "https://www.youtube.com/watch?v=ZK08eYVMRzg"
   certificate_url = ""
   date_start = "2019-04-30"
   date_end = ""
-  description = "Title: Addressing Bitrate and Latency Requirements for Connected Vehicles"
+  description = "Paper title: Addressing Bitrate and Latency Requirements for Connected Vehicles"
 
 [[item]]
   organization = "Ministry of Economy and Competitiveness of Spain"

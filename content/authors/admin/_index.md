@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Advanced Computer Technologies
+  - course: PhD in Adv. Computer Technologies
     institution: University of Castilla-La Mancha (Spain)
     year: 2018
-  - course: MSc in Advanced Computer Technologies
+  - course: MSc in Adv. Computer Technologies
     institution: University of Castilla-La Mancha (Spain)
     year: 2015
   - course: MSc in Computer Engineering
