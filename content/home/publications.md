@@ -7,8 +7,14 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
+{{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
+
 title = "Publications"
-subtitle = "Journals"
+subtitle = ""
+
+## Journals
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -68,10 +74,3 @@ subtitle = "Journals"
  css_class = ""
 +++
 
-## Heading 2
-1. First item
-2. Another item
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
