@@ -56,6 +56,7 @@ order = "asc"
   date_start = "2014-10-01"
   date_end = "2018-06-15"
   description = """
+
    * **06/2018**. _Extension of a network management system based on Nagios_, Cristian Cano del Saz.
    * **02/2017**. _Analysis of a public wireless network_, Leopoldo Moreno Gonzalez.
    * **06/2015**. _Design of a network control system based on Arduino_, Jeferson Arboleda Sanchez.
