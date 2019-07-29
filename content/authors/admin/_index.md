@@ -14,8 +14,8 @@ role: Expert Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: FBK CREATE-NET
-  url: ""
+- name: Fondazione Bruno Kessler, Trento (Italy)
+  url: "https://www.fbk.eu/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wireless and mobile communications, SDN/NFV and network management.
@@ -77,5 +77,5 @@ user_groups:
 - Visitors
 ---
 
-Estefanı́a Coronado is an Expert Researcher in the Wireless and Networked Systems Unit at FBK CREATE-NET (Italy). In 2018 she completed her PhD at the University of Castilla-La Mancha (Spain) on multimedia distribution over SD-WLANs. She received the M.Sc. degrees in Computer Engineering and Advanced Computer Technologies in 2014 and 2015 from the same university. She published more than 20 papers in international journals and conferences. Her research interests include wireless and mobile communications, 5G systems, SDN/NFV, AI-enabled networking and network management.
+Estefanı́a Coronado is an Expert Researcher in the Wireless and Networked Systems Unit at Fondazione Bruno Kessler (Trento, Italy). In 2018 she completed her PhD at the University of Castilla-La Mancha (Spain) on multimedia distribution over SD-WLANs. She received the M.Sc. degrees in Computer Engineering and Advanced Computer Technologies in 2014 and 2015 from the same university. She published more than 20 papers in international journals and conferences. Her research interests include wireless and mobile communications, 5G systems, SDN/NFV, AI-enabled networking and network management.
 
