@@ -14,7 +14,7 @@ role: Expert Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Fondazione Bruno Kessler, Trento (Italy)
+- name: Fondazione Bruno Kessler (Trento, Italy)
   url: "https://www.fbk.eu/en/"
 
 # Short bio (displayed in user profile at end of posts)
