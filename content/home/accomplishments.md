@@ -14,7 +14,7 @@ date_format = "Jan 2006"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["15px", "0", "10px", "0"]
+  padding = ["25px", "0", "20px", "0"]
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
