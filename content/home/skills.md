@@ -8,6 +8,10 @@ weight = 18  # Order that this section will appear.
 title = "Skills"
 subtitle = ""
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["15px", "0", "10px", "0"]
+
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.

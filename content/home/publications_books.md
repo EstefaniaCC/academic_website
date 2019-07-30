@@ -10,6 +10,10 @@ weight = 22  # Order that this section will appear.
 title = "Publications"
 subtitle = "Book Chapters"
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["15px", "0", "10px", "0"]
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
