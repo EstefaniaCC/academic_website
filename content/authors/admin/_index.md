@@ -1,4 +1,7 @@
 ---
+
+custom_css = ["css/overrides.css"]
+
 # Display name
 name: Estefania Coronado
 
