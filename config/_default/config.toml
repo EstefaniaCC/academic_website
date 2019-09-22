@@ -41,8 +41,12 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+fontbody = 'Noto Sans KR'
+fontcode = 'Roboto'
+
 [params]
-    customCSS = "overrides.css"
+     custom_css = ["css/overrides.css"]
+     googlefonts = "//fonts.googleapis.com/css?family=Roboto"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
