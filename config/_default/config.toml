@@ -41,9 +41,8 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-font = "playfair"
-font_size = 16
-font_size_small = "12"
+[params]
+    customCSS = "overrides.css"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
