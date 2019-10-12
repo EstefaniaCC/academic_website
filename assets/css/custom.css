@@ -81,7 +81,7 @@ site-title {
 
 element.style {
 }
-.home-section {\
+.home-section {
     padding: 20px;
 }
 
@@ -288,7 +288,7 @@ ul.ul-edu li .description p.institution {
     font-size: 14px;
 }
 
-.experience .card-text p {
+.experience .card-text, .experience .card-text p {
     font-size: 14px;
 }
 
