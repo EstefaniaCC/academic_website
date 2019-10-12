@@ -45,7 +45,7 @@ fontbody = 'Noto Sans KR'
 fontcode = 'Roboto'
 
 [params]
-     custom_css = ["css/overrides.css"]
+     custom_css = ["assets/css/custom.css"]
      googlefonts = "//fonts.googleapis.com/css?family=Roboto"
 
 [outputs]
