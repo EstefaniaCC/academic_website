@@ -109,12 +109,12 @@ h1.title {
 h1,
 .h1 {
   font-size: 30px;
-  line-height: 52px; }
+  line-height: 40px; }
 
 h2,
 .h2 {
   font-size: 28px;
-  line-height: 40px; }
+  line-height: 36px; }
 
 h3,
 .h3 {
@@ -125,6 +125,19 @@ h4,
 .h4 {
   font-size: 21px;
   line-height: 32px; }
+
+.card h4 {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+
+.card-text h4 {
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1.5;
+}
 
 h5,
 .h5 {
@@ -224,11 +237,18 @@ nav ol {
 dl dt {
   font-weight: bold; }
 
-ul li{
+ul {
    font-size:14px; }
+
+li{
+   font-size:16px; }
 
 p {
  font-size:14px;
+}
+
+.section-heading p {
+  font-size:20px;
 }
 /*dd {
   margin-left: 24px; }*/
