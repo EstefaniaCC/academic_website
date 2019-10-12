@@ -78,6 +78,13 @@ site-title {
 .bg-highlight {
   background-color: #edf2ff; }
 
+
+element.style {
+}
+.home-section {\
+    padding: 20px;
+}
+
 html,
 body {
   font-size: 16px;
@@ -127,14 +134,14 @@ h4,
   line-height: 32px; }
 
 .card h4 {
-    font-size: 26px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 1.5;
     text-transform: uppercase;
 }
 
 .card-text h4 {
-    font-size: 21px;
+    font-size: 14px;
     font-weight: 700;
     line-height: 1.5;
 }
@@ -249,6 +256,12 @@ p {
 
 .section-heading p {
   font-size:20px;
+}
+
+.card-text p {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.5;
 }
 /*dd {
   margin-left: 24px; }*/
