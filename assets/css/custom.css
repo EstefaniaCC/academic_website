@@ -1,0 +1,25 @@
+site-title {
+    font-weight: 200;
+    font-size: 8rem;
+}
+.collection-title {
+    font-size: 14pt;
+    font-weight: 300;
+}
+.site-header:before {
+    background: rgba(0, 0, 0, 0.5);
+}
+// This was only needed when I enabled pygments for syntax highlighting
+.site-wrapper {
+    min-height: auto;
+}
+.highlight {
+    width: 100%;
+}
+
+<style>
+      html,body,span,h1 {
+          font-family: "Roboto";
+          font-size: 14px;
+      }
+    </style>
