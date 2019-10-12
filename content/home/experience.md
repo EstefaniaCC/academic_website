@@ -29,9 +29,7 @@ date_format = "Jan 2006"
   location = "Trento, Italia"
   date_start = "2018-06-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
+  description = """Responsibilities include:
   * Research and prototyping in programmable radio access networks.
   * Contribution to R&D projects.
   * Supervision of MSc students.
@@ -44,7 +42,7 @@ date_format = "Jan 2006"
   location = "Albacete, Spain"
   date_start = "2014-06-01"
   date_end = "2018-05-31"
-  description = """Design of ML algorithms for QoS provisioning and prototyping in programmable IEEE 802.11 networks."""
+  description = "Design of ML algorithms for QoS provisioning and prototyping in programmable IEEE 802.11 networks."
 
 [[experience]]
   title = "Visiting Researcher"
@@ -53,7 +51,7 @@ date_format = "Jan 2006"
   location = "Trento, Italy"
   date_start = "2016-02-25"
   date_end = "2017-12-25"
-  description = """Multicasting, network slicing and resource management in SDN-based 802.11 WLANs"""
+  description = "Multicasting, network slicing and resource management in SDN-based 802.11 WLANs"
 
 [[experience]]
   title = "R&D Project Assistant"
@@ -62,6 +60,6 @@ date_format = "Jan 2006"
   location = "Albacete, Spain"
   date_start = "2013-10-01"
   date_end = "2014-05-31"
-  description = """Improvement of video streaming efficiency over IEEE 802.11 WLANs"""
+  description = "Improvement of video streaming efficiency over IEEE 802.11 WLANs"
 
 +++

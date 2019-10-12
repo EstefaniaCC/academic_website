@@ -29,8 +29,7 @@ order = "asc"
   location = "Albacete (Spain)"
   date_start = "2015-03-01"
   date_end = "2018-05-07"
-  description = """
-  Degrees and Subjects:
+  description = """ Degrees and Subjects:
   
   * **02/2018 – 05/2018**. _Computer Science Degree:_ Computer Networks (I).
   * **01/2017 – 04/2017**. _Computer Science Degree:_ Computer Networks (I).
@@ -48,9 +47,7 @@ order = "asc"
   location = "Valencia (Spain)"
   date_start = "2018-10-01"
   date_end = "2019-07-15"
-  description = """
-  _Association and reassociation of devices to Wi-Fi networks using SDN_, Blas Gomez Mora. 
-"""
+  description = "Association and reassociation of devices to Wi-Fi networks using SDN_, Blas Gomez Mora."
 
 [[experience]]
   title = "BSc Thesis Supervision"
