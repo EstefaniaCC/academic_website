@@ -151,7 +151,7 @@ h4,
   line-height: 32px; }
 
 .card h4 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     line-height: 1.5;
     text-transform: uppercase;
@@ -280,6 +280,22 @@ p {
     font-weight: 700;
     line-height: 1.5;
 }
+
+ul.ul-interests li {
+    font-size: 16px;
+}
+ul.ul-edu li .description p.institution {
+    font-size: 14px;
+}
+
+.experience .card-text p {
+    font-size: 14px;
+}
+
+.exp-meta {
+    font-size: 15px;
+}
+
 /*dd {
   margin-left: 24px; }*/
 
