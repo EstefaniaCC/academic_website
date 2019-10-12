@@ -47,7 +47,7 @@ order = "asc"
   location = "Valencia (Spain)"
   date_start = "2018-10-01"
   date_end = "2019-07-15"
-  description = "Association and reassociation of devices to Wi-Fi networks using SDN_, Blas Gomez Mora."
+  description = "_Association and reassociation of devices to Wi-Fi networks using SDN_, Blas Gomez Mora."
 
 [[experience]]
   title = "BSc Thesis Supervision"
