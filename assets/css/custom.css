@@ -102,18 +102,18 @@ h1.title, h1, h2, h3, h4, h5, h6 {
   margin-bottom: 16px; }
 
 h1.title {
-  font-size: 40px;
+  font-size: 36px;
   line-height: 64px;
   margin-bottom: 8px; }
 
 h1,
 .h1 {
-  font-size: 40px;
+  font-size: 36px;
   line-height: 52px; }
 
 h2,
 .h2 {
-  font-size: 36px;
+  font-size: 28px;
   line-height: 40px; }
 
 h3,
@@ -217,14 +217,19 @@ nav ol {
   nav ul ul,
   nav ul ol,
   nav ol ul,
-  nav ol ol {
-    margin-left: 24px; }
+/*  nav ol ol {
+    margin-left: 24px; 
+  }*/
 
 dl dt {
   font-weight: bold; }
 
-dd {
-  margin-left: 24px; }
+ul li{
+ font-size:18px;
+}
+
+/*dd {
+  margin-left: 24px; }*/
 
 p, blockquote, hr, pre, ol, ul, dl, table, fieldset, figure, address, form {
   margin-bottom: 16px; }
