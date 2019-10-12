@@ -85,6 +85,23 @@ element.style {
     padding: 20px;
 }
 
+.navbar-light .navbar-brand {
+    font-weight: 700;
+    font-size: 26px;
+    color: #fff;
+}
+
+.dropdown-menu, nav#navbar-main li.nav-item {
+    font-size: 17px;
+}
+
+.portrait-title h3 {
+    font-size: 20px;
+    font-weight: 300;
+    color: rgba(0,0,0,.54);
+    margin: 0 0 3px;
+}
+
 html,
 body {
   font-size: 16px;
