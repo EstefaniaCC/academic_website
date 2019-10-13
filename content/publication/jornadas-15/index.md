@@ -1,7 +1,7 @@
 ---
 title: "Esquema de predicción dinámica de AIFSN para mejorar la QoS en redes IEEE 802.11"
 date: 2015-01-01
-publishDate: 2019-07-27T13:43:11.441985Z
+publishDate: 2019-10-13T13:29:32.460037Z
 authors: ["Estefania Coronado", "Luis de la Ossa", "Jose Villalón", "Antonio Garrido"]
 publication_types: ["1"]
 abstract: ""

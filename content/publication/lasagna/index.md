@@ -1,7 +1,7 @@
 ---
-title: "Lasagna: Programming Abstractions for End--to--End Slicing in Software--Defined WLANs"
+title: "Lasagna: Programming Abstractions for End-to-End Slicing in Software-Defined WLANs"
 date: 2018-01-01
-publishDate: 2019-07-27T13:43:11.441350Z
+publishDate: 2019-10-13T13:29:32.459385Z
 authors: ["Estefania Coronado", "Roberto Riggio", "Jose Villalón", "Antonio Garrido"]
 publication_types: ["1"]
 abstract: ""

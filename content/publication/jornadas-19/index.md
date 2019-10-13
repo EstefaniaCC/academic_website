@@ -1,7 +1,7 @@
 ---
 title: "Enhanced User Association in Software-Defined WLANs for AP and Channel Load Balancing"
 date: 2019-01-01
-publishDate: 2019-07-27T13:43:11.443028Z
+publishDate: 2019-10-13T13:29:32.461031Z
 authors: ["Blas Gomez", "Estefania Coronado", "Jose Villalón", "Roberto Riggio", "Antonio Garrido"]
 publication_types: ["1"]
 abstract: ""
