@@ -118,6 +118,17 @@ a {
 a:hover {
   color: #f03c69; }
 
+.navbar-light {
+    background: #3794de;
+    box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11);
+}
+
+.navbar-light .navbar-nav>li.nav-item>a.active, .navbar-light .navbar-nav>li.nav-item>a.active:focus, .navbar-light .navbar-nav>li.nav-item>a.active:hover {
+    color: #223159;
+    font-weight: 700;
+    background-color: transparent!important;
+}
+
 h1.title, h1, h2, h3, h4, h5, h6 {
   font-family: Roboto, sans-serif;
   font-weight: bold;
