@@ -272,13 +272,13 @@ dl dt {
   font-weight: bold; }
 
 ul {
-   font-size:14px; }
+  font-size:14px; }
 
 li{
-   font-size:16px; }
+  font-size:16px; }
 
 p {
- font-size:14px;
+  font-size:14px;
 }
 
 .section-heading p {
@@ -286,23 +286,23 @@ p {
 }
 
 .card-text p {
-    font-size: 18px;
+  font-size: 18px;
 }
 
 ul.ul-interests li {
-    font-size: 16px;
+  font-size: 16px;
 }
 ul.ul-edu li .description p.institution {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 .card .card-text {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 .experience .card-text,
 .experience .card-text p {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 .exp-meta {
