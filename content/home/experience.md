@@ -34,8 +34,7 @@ plugins_css = ["custom"]
   
   * Research and prototyping in programmable radio access networks.
   * Contribution to R&D projects.
-  * Supervision of MSc students.
-  """
+  * Supervision of MSc students."""
 
 [[experience]]
   title = "Predoctoral Research Scholarship"
