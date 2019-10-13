@@ -296,7 +296,12 @@ ul.ul-edu li .description p.institution {
     font-size: 14px;
 }
 
-.experience .card-text, .experience .card-text p {
+.card .card-text {
+    font-size: 14px;
+}
+
+.experience .card-text,
+.experience .card-text p {
     font-size: 14px;
 }
 
