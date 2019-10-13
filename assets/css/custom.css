@@ -89,6 +89,7 @@ element.style {
     font-weight: 700;
     font-size: 26px;
     color: #fff;
+    background: #3794de;
 }
 
 .dropdown-menu, nav#navbar-main li.nav-item {
@@ -118,14 +119,8 @@ a {
 a:hover {
   color: #f03c69; }
 
-.navbar-light .navbar-nav>li.nav-item>a.active, .navbar-light .navbar-nav>li.nav-item>a.active:focus, .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-    color: #223159;.navbar-light .navbar-light 
-    font-weight: 700;
-    background-color: transparent!important;
-}
-
-.navbar-light {
-    background: #3794de;
+.navbar-nav>li.nav-item>a.active:focus, .navbar-light .navbar-nav>li.nav-item>a.active:hover {
+    color: #223159;
 }
 
 h1.title, h1, h2, h3, h4, h5, h6 {
