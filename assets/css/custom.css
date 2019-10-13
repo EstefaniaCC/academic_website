@@ -85,7 +85,12 @@ element.style {
     padding: 20px;
 }
 
-.navbar-light .navbar-brand {
+.navbar-brand {
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.navbar-light {
     font-weight: 700;
     font-size: 26px;
     color: #fff;
