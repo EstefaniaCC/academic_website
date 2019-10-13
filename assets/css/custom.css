@@ -124,7 +124,7 @@ a {
 a:hover {
   color: #f03c69; }
 
-.navbar-nav>li.nav-item>a.active:focus, .navbar-light .navbar-nav>li.nav-item>a.active:hover {
+.navbar-nav>li.nav-item>a.active:focus, .navbar-nav>li.nav-item>a.active:hover {
     color: #223159;
 }
 
