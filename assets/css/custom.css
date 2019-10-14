@@ -297,15 +297,15 @@ ul.ul-edu li .description p.institution {
 }
 
 .card .card-text {
-  font-size: 14px;
+  font-size: 14px!important;
 }
 
 .card .card-text p{
-  font-size: 14px;
+  font-size: 14px!important;
 }
 
 .experience .card-text p {
-  font-size: 14px;
+  font-size: 14px!important;
 }
 
 .exp-meta {
