@@ -31,6 +31,7 @@ education:
   - course: PhD in Adv. Computer Technologies [Cum Laude]
     institution: University of Castilla-La Mancha (Spain)
     year: 2018
+    url: https://ruidera.uclm.es/xmlui/handle/10578/18331
   - course: MSc in Adv. Computer Technologies
     institution: University of Castilla-La Mancha (Spain)
     year: 2015
