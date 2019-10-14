@@ -32,7 +32,10 @@ plugins_css = ["custom"]
   certificate_url = "./../publication/infocom-19/certificate.pdf"
   date_start = "2019-04-30"
   date_end = ""
-  description = "Paper title: Addressing Bitrate and Latency Requirements for Connected Vehicles"
+  description = """
+  Paper title: Addressing Bitrate and Latency Requirements for Connected Vehicles.
+  https://www.youtube.com/watch?v=ZK08eYVMRzg
+  """
 
 [[item]]
   organization = "Ministry of Economy and Competitiveness of Spain"
