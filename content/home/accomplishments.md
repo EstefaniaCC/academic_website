@@ -32,16 +32,16 @@ plugins_css = ["custom"]
   certificate_url = "./../publication/infocom-19/certificate.pdf"
   date_start = "2019-04-30"
   date_end = ""
-  description = "<a href="https://www.youtube.com/watch?v=ZK08eYVMRzg">Paper title: Addressing Bitrate and Latency Requirements for Connected Vehicles.</a>"
+  description = "Paper title: Addressing Bitrate and Latency Requirements for Connected Vehicles"
 
 [[item]]
   organization = "Ministry of Economy and Competitiveness of Spain"
   organization_url = "http://www.ciencia.gob.es/"
   title = "Pre-doctorate Research Scholarship"
-  url = "http://www.ciencia.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=68eb71d255dcf310VgnVCM1000001d04140aRCRD"
-  certificate_url = ""
+  url = ""
+  certificate_url = "http://www.ciencia.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=68eb71d255dcf310VgnVCM1000001d04140aRCRD"
   date_start = "2014-06-01"
-  date_end = ""
+  date_end = "2018-05-15"
   description = ""
 
 +++
