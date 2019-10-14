@@ -272,13 +272,13 @@ dl dt {
   font-weight: bold; }
 
 ul {
-  font-size:14px; }
+  font-size:15px; }
 
 li{
-  font-size:16px; }
+  font-size:15px; }
 
 p {
-  font-size:14px;
+  font-size:15px;
 }
 
 .section-heading p {
@@ -297,15 +297,15 @@ ul.ul-edu li .description p.institution {
 }
 
 .card .card-text {
-  font-size: 14px!important;
+  font-size: 15px!important;
 }
 
 .card .card-text p{
-  font-size: 14px!important;
+  font-size: 15px!important;
 }
 
 .experience .card-text p {
-  font-size: 14px!important;
+  font-size: 15px!important;
 }
 
 .exp-meta {
