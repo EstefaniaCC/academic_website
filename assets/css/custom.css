@@ -162,14 +162,14 @@ h4,
 
 .card h4 {
     font-size: 18px;
-    font-weight: 700;
+    /*font-weight: 700;*/
     line-height: 1.5;
     text-transform: uppercase;
 }
 
 .card-text h4 {
     font-size: 14px;
-    font-weight: 700;
+    /*font-weight: 700;*/
     line-height: 1.5;
 }
 
@@ -300,7 +300,10 @@ ul.ul-edu li .description p.institution {
   font-size: 14px;
 }
 
-.experience .card-text,
+.card .card-text p{
+  font-size: 14px;
+}
+
 .experience .card-text p {
   font-size: 14px;
 }
