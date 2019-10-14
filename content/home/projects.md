@@ -30,7 +30,7 @@ plugins_css = ["custom"]
   title = "5G-CARMEN: 5G for Connected and Automated Road Mobility in the European unioN. Project ID H2020-ICT-2018-825012"
   url = "https://www.5gcarmen.eu/"
   date_start = "2018-11-01"
-  date_end = "Currently"
+  date_end = ""
   description = "Fondazione Bruno Kessler. Team member."
 
 [[item]]
@@ -39,7 +39,7 @@ plugins_css = ["custom"]
   title = "5G-ESSENCE: Embedded Network Services for 5G Experiences. Project ID H2020-ICT-2016-2-761592"
   url = "http://www.5g-essence-h2020.eu/"
   date_start = "2018-06-01"
-  date_end = "Currently"
+  date_end = ""
   description = "Fondazione Bruno Kessler. Team member."
 
 [[item]]
