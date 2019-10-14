@@ -21,7 +21,9 @@ date_format = "Jan 2006"
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "10px", "0"]
-plugins_css = ["custom"]
+  
+[advanced]
+  plugins_css = ["custom"]
 
 [[experience]]
   title = "Expert Researcher"
