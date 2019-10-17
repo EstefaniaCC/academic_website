@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Predoctoral Research Scholarship"
   company = "University of Castilla-La Mancha"
-  company_url =  "https://www.uclm.es/"
+  company_url =  "https://www.uclm.es"
   location = "Albacete, Spain"
   date_start = "2014-06-01"
   date_end = "2018-05-31"
