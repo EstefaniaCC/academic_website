@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proc. of IEEE NOMS*"
+url_poster: 'WiNot_poster.pdf'
 ---
 
