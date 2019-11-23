@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   company = "University of Castilla-La Mancha"
   company_url = "https://www.uclm.es/"
   location = "Albacete, Spain"
-  date_start = "2013-10-0S1"
+  date_start = "2013-10-01"
   date_end = "2014-05-31"
   description = "Improvement of video streaming efficiency over IEEE 802.11 WLANs"
 
