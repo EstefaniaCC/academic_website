@@ -51,7 +51,8 @@ plugins_css = ["custom"]
   date_start = "2015-01-01"
   date_end = ""
   description = """
-  * _IEEE Member and ComSoc Member_ - 2015 - Currently.
+  * _IEEE Member_ - 2015 - Currently.
+  * _IEEE ComSoc Member_ - 2019 - Currently.
   * _Spanish Assistant Professor Certification (ANECA)_ - 2019.
   """
 
