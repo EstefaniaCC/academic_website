@@ -21,14 +21,20 @@ subtitle = ""
 [[feature]]
   icon = "wifi"
   icon_pack = "fas"
-  name = "Wireless and Mobile Networks"
-  description = "Research and prototyping in control and data planes Wi-Fi and 5G"
-  
+  name = "Wireless/Mobile Networks, SDN/NFV"
+  description = "Research and prototyping in control and data planes Wi-Fi and 5G leveraging SDN and NFV"
+
 [[feature]]
-  icon = "server"
+  icon = "book-open"
   icon_pack = "fas"
-  name = "SDN/NFV"
-  description = "Virtualization technologies SDN and NFV"
+  name = "Machine Learning"
+  description = "Observable ML techniques applied to networking"
+  
+#[[feature]]
+#  icon = "server"
+#  icon_pack = "fas"
+#  name = "SDN/NFV"
+#  description = "Virtualization technologies SDN and NFV"
     
 [[feature]]
   icon = "spinner"
