@@ -3,10 +3,10 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Regional"
+subtitle = "Spanish Art. 83"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -24,13 +24,20 @@ date_format = "Jan 2006"
 
 plugins_css = ["custom"]
 
+[[item]]
+  organization = "Articulo 83"
+  organization_url = ""
+  title = "Research and Development activities within the priorities of the Future Networks Area at CREATE-NET"
+  date_start = "2017-09-01"
+  date_end = "2017-12-01"
+  description = "University of Castilla-La Mancha. Team member."
 
 [[item]]
-  organization = "Castilla-La Mancha Regional Government"
+  organization = "Articulo 83"
   organization_url = ""
-  title = "Techniques for improved video encoding and distribution over Wi-Fi networks - SBPLY/17/180501/000353"
-  date_start = "2018-09-01"
-  date_end = ""
+  title = "Research and Development activities within the priorities of the Future Networks Area at CREATE-NET"
+  date_start = "2016-09-01"
+  date_end = "2016-12-01"
   description = "University of Castilla-La Mancha. Team member."
 
 +++
