@@ -22,7 +22,7 @@ subtitle = ""
   icon = "wifi"
   icon_pack = "fas"
   name = "Wireless/Mobile Networks"
-  description = "Research and prototyping in SDN/NFV-based Wi-Fi/5G systems"
+  description = "Research and prototyping in Wi-Fi/5G systems leveraging SDN/NFV"
 
 [[feature]]
   icon = "book-open"
