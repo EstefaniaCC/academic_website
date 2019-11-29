@@ -36,8 +36,8 @@ plugins_css = ["custom"]
   * _IEEE Network Operations and Management Symposium (NOMS)_ - 2020.
   * _IEEE Conference on Innovation in Clouds, Internet and Networks (ICIN)_ - 2020.
   * _IEEE International Conference on Network Softwarization (Netsoft)_ - 2020.
-  * _International Conference on Fog and Mobile Edge Computing (FMEC)_ - 2019.
-  * _International Conference on Network of the Future (NoF)_ - 2019.
+  * _IEEE International Conference on Fog and Mobile Edge Computing (FMEC)_ - 2019.
+  * _IEEE International Conference on Network of the Future (NoF)_ - 2019.
   * _IEEE International Workshop on Management of 5G Networks (5GMan)_ - 2018, 2019.
   * _Advanced International Conference on Telecommunications (AICT)_ - 2018, 2019.
   """
