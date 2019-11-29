@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   description = """ Responsibilities include:
   
   * Research and prototyping in programmable radio access networks.
-  * Research dissemination in high impact journals, conferences and hands-on demonstrations.
+  * Research dissemination in high impact journals, international conferences and hands-on demonstrations.
   * Contribution to R&D projects.
   * Supervision of MSc, PhD students."""
 
