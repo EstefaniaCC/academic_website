@@ -25,6 +25,30 @@ date_format = "Jan 2006"
 plugins_css = ["custom"]
 
 [[item]]
+  title = "Horizon 2020 Program Projects"
+  company = "European Comission"
+  company_url = ""
+  location = ""
+  date_start = ""
+  date_end = ""
+  description = """   
+  * **Nov 2018 – Currently**. _5G-CARMEN: 5G for Connected and Automated Road Mobility in the European unioN - H2020-ICT-2018-825012._ Fondazione Bruno Kessler. Team member.
+  * **Jun 2018 – Nov 2019**. _5G-ESSENCE: Embedded Network Services for 5G Experiences - H2020-ICT-2016-2-761592._ Fondazione Bruno Kessler. Team member.
+"""
+
+[[item]]
+  title = "Spanish National Projects"
+  company = "Spanish Ministry of Science, Innovation and Universities"
+  company_url = ""
+  location = ""
+  date_start = ""
+  date_end = ""
+  description = """   
+  * **Jan 2019 – Currently**. _Innovative technologies and applications for data centres and high performance systems - RTI2018-098156-B-C52._ University of Castilla-La Mancha. Team member.
+
+"""
+<!-- 
+[[item]]
   organization = "Horizon 2020 Program"
   organization_url = "https://5g-ppp.eu/5g-carmen/"
   title = "5G-CARMEN: 5G for Connected and Automated Road Mobility in the European unioN - H2020-ICT-2018-825012"
@@ -73,5 +97,5 @@ plugins_css = ["custom"]
   date_start = "2013-01-01"
   date_end = "2015-12-31"
   description = "University of Castilla-La Mancha. Team member."
-
+ -->
 +++
