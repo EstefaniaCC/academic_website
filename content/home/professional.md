@@ -53,7 +53,7 @@ plugins_css = ["custom"]
   description = """
   * _IEEE Member_ - 2015 - Currently.
   * _IEEE ComSoc Member_ - 2019 - Currently.
-  * _Spanish Assistant Professor Certification (ANECA)_ - 2019.
+  * _Spanish Assistant Professor Certification (ANECA)_ - 2018.
   """
 
 +++
