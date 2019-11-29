@@ -13,29 +13,15 @@
   url = "publications/"
   weight = 20
 
-[[main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 30
 
 [[main]]
-  name = "Professional"
-  url = "#professional"
-  weight = 35
-
-[[main]]
-  name = "Awards"
-  url = "#awards"
-  weight = 40
-
-[[main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "Teaching and Supervision"
+  url = "teaching/"
   weight = 50
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "projects/"
   weight = 60
 
 [[main]]
