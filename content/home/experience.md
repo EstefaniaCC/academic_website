@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   title = "Expert Researcher"
   company = "Fondazione Bruno Kessler"
   company_url = "https://www.fbk.eu/en/"
-  location = "Trento, Italia"
+  location = "Trento, Italy"
   date_start = "2018-06-01"
   date_end = ""
   description = """ Responsibilities include:
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   location = "Trento, Italy"
   date_start = "2016-02-25"
   date_end = "2017-12-25"
-  description = "Multicasting, network slicing and resource management in SDN-based 802.11 WLANs"
+  description = "Multicasting, network slicing and resource management in SDN-based 802.11 WLANs."
 
 [[experience]]
   title = "R&D Project Assistant"
@@ -64,6 +64,6 @@ date_format = "Jan 2006"
   location = "Albacete, Spain"
   date_start = "2013-10-01"
   date_end = "2014-05-31"
-  description = "Improvement of video streaming efficiency over IEEE 802.11 WLANs"
+  description = "Improvement of video streaming efficiency over IEEE 802.11 WLANs."
 
 +++
