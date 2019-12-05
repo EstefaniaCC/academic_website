@@ -49,7 +49,10 @@ plugins_css = ["custom"]
   location = "Valencia (Spain)"
   date_start = "2018-10-01"
   date_end = "2019-07-15"
-  description = "_Association and reassociation of devices to Wi-Fi networks using SDN_, Blas Gomez Mora."
+  description = """
+  * **Jul 2019**. _Association and reassociation of devices to Wi-Fi networks using SDN_, Blas Gomez Mora.
+
+  """
 
 [[experience]]
   title = "BSc Thesis Supervision"
