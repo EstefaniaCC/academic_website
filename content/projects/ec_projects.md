@@ -36,7 +36,7 @@ plugins_css = ["custom"]
 [[item]]
   organization = "Horizon 2020 Program"
   organization_url = "https://5g-ppp.eu/5gzorro/"
-  title = "Zero-tOuch secuRity and tRust for ubiquitous cOmputing and connectivity in 5G networks - H2020-ICT-2019-871533"
+  title = "5GZORRO: Zero-tOuch secuRity and tRust for ubiquitous cOmputing and connectivity in 5G networks - H2020-ICT-2019-871533"
   url = "https://www.5gzorro.eu/"
   date_start = "2019-11-01"
   date_end = ""
