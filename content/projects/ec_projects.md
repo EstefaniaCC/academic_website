@@ -35,6 +35,15 @@ plugins_css = ["custom"]
 
 [[item]]
   organization = "Horizon 2020 Program"
+  organization_url = "https://5g-ppp.eu/5gzorro/"
+  title = "Zero-tOuch secuRity and tRust for ubiquitous cOmputing and connectivity in 5G networks - H2020-ICT-2019-871533"
+  url = "https://www.5gzorro.eu/"
+  date_start = "2019-11-01"
+  date_end = ""
+  description = "Fondazione Bruno Kessler. Team member."
+
+[[item]]
+  organization = "Horizon 2020 Program"
   organization_url = "https://5g-ppp.eu/5g-essence/"
   title = "5G-ESSENCE: Embedded Network Services for 5G Experiences - H2020-ICT-2016-2-761592"
   url = "http://www.5g-essence-h2020.eu/"

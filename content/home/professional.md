@@ -33,13 +33,14 @@ plugins_css = ["custom"]
   date_start = "2018-01-01"
   date_end = ""
   description = """
+  * _IEEE International Symposium on Personal, Indoor and Mobile Radio Communicationsm (PIMRC)_ - 2020.
   * _IEEE Network Operations and Management Symposium (NOMS)_ - 2020.
   * _IEEE Conference on Innovation in Clouds, Internet and Networks (ICIN)_ - 2020.
   * _IEEE International Conference on Network Softwarization (Netsoft)_ - 2020.
   * _IEEE International Conference on Fog and Mobile Edge Computing (FMEC)_ - 2019.
   * _IEEE International Conference on Network of the Future (NoF)_ - 2019, 2020.
   * _IEEE International Workshop on Management of 5G Networks (5GMan)_ - 2018, 2019.
-  * _Advanced International Conference on Telecommunications (AICT)_ - 2018, 2019.
+  * _Advanced International Conference on Telecommunications (AICT)_ - 2018, 2019, 2020.
   """
 
 [[item]]
