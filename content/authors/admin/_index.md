@@ -81,5 +81,5 @@ user_groups:
 - Visitors
 ---
 
-<p style="font-family:Roboto; font-size: 18px;" align=justify>Hello! My name is Estefania Coronado and I am an Expert Researcher in the Wireless and Networked Systems Unit at Fondazione Bruno Kessler (Italy). In 2018 I completed my PhD at the Univ. of Castilla-La Mancha (Spain) on multimedia distribution over SD-WLANs. I received the M.Sc. degrees in Computer Engineering and Advanced Computer Technologies in 2014 and 2015 from the same university. I have published around 20 papers in international journals and conferences. My research interests include wireless and mobile communications, 5G systems, SDN/NFV and AI-enabled network management.</p>
+<p style="font-family:Roboto; font-size: 18px;" align=justify>Hello! My name is Estefania Coronado and I am an Expert Researcher in the Smart Networks and Services (SENSE) Unit at Fondazione Bruno Kessler (Italy). In 2018 I completed my PhD at the Univ. of Castilla-La Mancha (Spain) on multimedia distribution over SD-WLANs. I received the M.Sc. degrees in Computer Engineering and Advanced Computer Technologies in 2014 and 2015 from the same university. I have published around 20 papers in international journals and conferences. My research interests include wireless and mobile communications, 5G systems, SDN/NFV and AI-enabled network management.</p>
 

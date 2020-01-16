@@ -55,7 +55,7 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "e.coronado@fbk.eu"
 #phone = "888 888 88 88"
-address = "Via alla cascata 56/D, Trento, Italy"
+address = "Via Sommarive, 18, Trento, Italy"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
