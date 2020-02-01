@@ -22,9 +22,10 @@ bio: My research interests include wireless and mobile communications, network s
 
 interests:
 - Wireless and mobile 5G systems
-- SDN/NFV
-- AI-enabled networking
-- Network management.
+- SDN, NFV
+- Network slicing
+- AI-enabled networks
+- Automated network management
 
 education:
   courses:
