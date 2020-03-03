@@ -30,7 +30,7 @@ plugins_css = ["custom"]
   title = "5G-CARMEN: 5G for Connected and Automated Road Mobility in the European unioN - H2020-ICT-2018-825012"
   url = "https://www.5gcarmen.eu/"
   date_start = "2018-11-01"
-  date_end = ""
+  date_end = "2021-10-31"
   description = "Fondazione Bruno Kessler. Team member."
 
 [[item]]
@@ -39,7 +39,7 @@ plugins_css = ["custom"]
   title = "5GZORRO: Zero-tOuch secuRity and tRust for ubiquitous cOmputing and connectivity in 5G networks - H2020-ICT-2019-871533"
   url = "https://www.5gzorro.eu/"
   date_start = "2019-11-01"
-  date_end = ""
+  date_end = "2022-05-31"
   description = "Fondazione Bruno Kessler. Team member."
 
 [[item]]

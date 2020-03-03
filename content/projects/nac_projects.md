@@ -29,7 +29,7 @@ plugins_css = ["custom"]
   organization_url = "http://www.ciencia.gob.es/"
   title = "Innovative technologies and applications for data centres and high performance systems - RTI2018-098156-B-C52"
   date_start = "2019-01-01"
-  date_end = ""
+  date_end = "2021-12-31"
   description = "University of Castilla-La Mancha. Team member."
 
 [[item]]

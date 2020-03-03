@@ -30,7 +30,7 @@ plugins_css = ["custom"]
   organization_url = ""
   title = "Techniques for improved video encoding and distribution over Wi-Fi networks - SBPLY/17/180501/000353"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2021-08-31"
   description = "University of Castilla-La Mancha. Team member."
 
 +++

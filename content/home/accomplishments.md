@@ -34,7 +34,9 @@ plugins_css = ["custom"]
   date_end = ""
   description = """
   Paper title: Addressing Bitrate and Latency Requirements for Connected Vehicles.
-  https://www.youtube.com/watch?v=ZK08eYVMRzg
+  <iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=ZK08eYVMRzg">
+</iframe>
   """
 
 [[item]]
