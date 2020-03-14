@@ -5,7 +5,7 @@ publishDate: 2019-10-13T13:29:32.461383Z
 authors: ["Estefania Coronado", "Shah Kahn", "Roberto Riggio"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*IEEE Transactions on Network and Service Management*"
 ---
 
