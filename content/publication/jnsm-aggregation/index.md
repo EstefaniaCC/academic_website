@@ -5,7 +5,7 @@ publishDate: 2020-03-14T16:09:21.217345Z
 authors: ["Estefania Coronado", "Abin Thomas", "Roberto Riggio"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Jorunal of Network and Systems Management*"
 ---
 

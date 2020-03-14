@@ -5,7 +5,7 @@ publishDate: 2020-03-14T16:09:21.217604Z
 authors: ["Estefania Coronado", "Zarrar Yousaf", "Roberto Riggio"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*IEEE Communications Magazine*"
 ---
 
