@@ -9,7 +9,7 @@ featured: false
 publication: "*Proc. of IEEE INFOCOM*"
 url_poster: 'Infocom2019_poster.pdf'
 url_video: "https://www.youtube.com/watch?v=ZK08eYVMRzg"
-summary: **Best Demo Award**
+summary: "Best Demo Award"
 location: Paris, France
 ---
 
