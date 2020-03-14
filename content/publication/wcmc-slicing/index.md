@@ -5,7 +5,7 @@ publishDate: 2019-10-13T13:29:32.462141Z
 authors: ["Katerina Koutlia", "Ramon Ferrús", "Estefania Coronado", "Roberto Riggio", "Fernando Casadevall", "Anna Umbert", "Jesus Pérez-Romero"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Wireless Communications and Mobile Computing*"
 ---
 

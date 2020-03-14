@@ -32,7 +32,7 @@ subtitle = "Journals"
     tag = ""
     category = ""
     publication_type = "2"
-    exclude_featured = false
+    #exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -72,6 +72,6 @@ subtitle = "Journals"
  css_class = ""
 +++
 
-<!-- {{% alert note %}}
+{{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}} -->
+{{% /alert %}}
