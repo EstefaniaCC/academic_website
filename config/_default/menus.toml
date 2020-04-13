@@ -15,19 +15,24 @@
 
 
 [[main]]
-  name = "Teaching and Supervision"
+  name = "Teaching & Supervision"
   url = "teaching/"
-  weight = 50
+  weight = 30
 
 [[main]]
   name = "Projects"
   url = "projects/"
-  weight = 60
+  weight = 40
+
+[[main]]
+  name = "Accomplishments"
+  url = "achievements/"
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

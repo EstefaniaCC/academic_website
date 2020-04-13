@@ -27,12 +27,12 @@ plugins_css = ["custom"]
   date_end = "2018-05-07"
   description = """ Degrees and Subjects:
   
-  * **Feb 2018 – May 2018**. _Computer Science Degree:_ Computer Networks (I).
-  * **Jan 2017 – Apr 2017**. _Computer Science Degree:_ Computer Networks (I).
-  * **Jan 2017 – Apr 2017**. _Computer Science Degree:_ Computer Structure.
-  * **Dec 2015 – Sep 2015**. _Computer Science Degree:_ Computer Architecture.
-  * **Mar 2015 – May 2015**. _Forestry and Natural Environment Engineering Degree:_ Statistics and Computational Methods.
-  * **Mar 2015 – May 2015**. _Food and Agricultural Engineering Degree:_ Statistics and Computational Methods.
+  * **Feb 2018 – May 2018**. _Computer Networks (I)_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  * **Jan 2017 – Apr 2017**. _Computer Networks (I)_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  * **Jan 2017 – Apr 2017**. _Computer Structure_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  * **Dec 2015 – Sep 2015**. _Computer Architecture_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  * **Mar 2015 – May 2015**. _Statistics and Computational Methods_. Forestry and Natural Environment Engineering Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  * **Mar 2015 – May 2015**. _Statistics and Computational Methods_. Food and Agricultural Engineering Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
 """
 
 +++

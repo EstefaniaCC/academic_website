@@ -26,7 +26,7 @@ plugins_css = ["custom"]
   date_start = "2018-10-01"
   date_end = "2019-07-15"
   description = """
-  * **Jul 2019**. _Association and reassociation of devices to Wi-Fi networks using SDN_, Blas Gomez Mora.
+  * **Jul 2019**. _<a href="http://hdl.handle.net/10251/124494" target="_blank">Association and reassociation of devices to Wi-Fi networks using SDN</a>_, Blas Gomez Mora. <a href="https://www.upv.es" target="_blank">Polytechnic University of Valencia (Spain)</a>.
 
   """
 
@@ -39,9 +39,9 @@ plugins_css = ["custom"]
   date_end = "2018-06-15"
   description = """
 
-   * **Jun 2018**. _Extension of a network management system based on Nagios_, Cristian Cano del Saz.
-   * **Feb 2017**. _Analysis of a public wireless network_, Leopoldo Moreno Gonzalez.
-   * **Jun 2015**. _Design of a network control system based on Arduino_, Jeferson Arboleda Sanchez.
-   * **Feb 2015**. _Design of a corporate multiservice network_, Sergio Araque Castellanos.
+   * **Jun 2018**. _Extension of a network management system based on Nagios_, Cristian Cano del Saz. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+   * **Feb 2017**. _Analysis of a public wireless network_, Leopoldo Moreno Gonzalez. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+   * **Jun 2015**. _Design of a network control system based on Arduino_, Jeferson Arboleda Sanchez. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+   * **Feb 2015**. _Design of a corporate multiservice network_, Sergio Araque Castellanos. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
 """
 +++
