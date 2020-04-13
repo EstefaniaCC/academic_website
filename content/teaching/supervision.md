@@ -1,5 +1,6 @@
 +++
 # Experience widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
@@ -14,6 +15,8 @@ date_format = "Jan 2006"
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["25px", "0", "20px", "0"]
+
+plugins_css = ["custom"]
 
 [[item]]
   title = "MSc Thesis Supervision"
