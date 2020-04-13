@@ -31,4 +31,17 @@ plugins_css = ["custom"]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK08eYVMRzg" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   """
 
+[[item]]
+  organization = "IEEE INFOCOM"
+  organization_url = "https://infocom2019.ieee-infocom.org/"
+  title = "Best Demo Paper Award"
+  url = "https://www.youtube.com/watch?v=ZK08eYVMRzg"
+  certificate_url = "./../publication/infocom-19/certificate.pdf"
+  date_start = "2019-04-30"
+  date_end = ""
+  description = """
+  Paper title: Addressing Bitrate and Latency Requirements for Connected Vehicles.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZK08eYVMRzg" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  """
+
 +++

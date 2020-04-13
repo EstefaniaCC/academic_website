@@ -3,10 +3,10 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Certifications"
-subtitle = "Courses"
+subtitle = "Professional Certifications"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -25,12 +25,11 @@ date_format = "Jan 2006"
 plugins_css = ["custom"]
 
 [[item]]
-  organization = "Standford University. Coursera"
-  organization_url = ""
-  title = "Machine Learning Course"
-  certificate_url = "ml_certificate.pdf"
-  date_start = "2019-12-01"
-  date_end = "2020-04-03"
+  organization = "Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA)"
+  organization_url = "http://www.aneca.es/"
+  title = "Spanish Assistant Professor Certification"
+  certificate_url = ""
+  date_start = "2018-09-01"
+  date_end = ""
   description = ""
-
 +++

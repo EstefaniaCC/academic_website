@@ -46,7 +46,7 @@ plugins_css = ["custom"]
 [[item]]
   organization = "National/International Organizations"
   organization_url = ""
-  title = "Society Member and Certifications"
+  title = "Society Member"
   url = ""
   certificate_url = ""
   date_start = "2015-01-01"
@@ -54,7 +54,6 @@ plugins_css = ["custom"]
   description = """
   * _IEEE Member_ - 2015 - Currently.
   * _IEEE ComSoc Member_ - 2019 - Currently.
-  * _Spanish Assistant Professor Certification (ANECA)_ - 2018.
   """
 
 +++
