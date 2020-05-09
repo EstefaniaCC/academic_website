@@ -88,14 +88,14 @@ address = {street = "Via Sommarive 18", city = "Trento", region = "TN", postcode
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "46.067024", longitude = "11.151186"}
 
 # Directions for visitors to locate you.
-#directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Smart Networks and Services"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = []
+office_hours = ["Mon-Fri 09.00-17.30"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
@@ -106,7 +106,7 @@ contact_links = [
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "twitter", icon_pack = "fab", name = "Follow Me", link = "https://twitter.com/CEstefaniaC"},
-  {icon = "linkedin", icon_pack = "fab", name = "Linkedin", link = "https://www.linkedin.com/in/estefaniacoronadocalero/"},
+  {icon = "linkedin", icon_pack = "fab", name = "Linkedin", link = "https://www.linkedin.com/in/estefaniacoronadocalero/"}
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
