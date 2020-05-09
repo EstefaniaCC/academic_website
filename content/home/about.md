@@ -12,5 +12,6 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 
-custom_css = ["css/overrides.css"]
+[advanced]
+  css_class = "custom"
 +++

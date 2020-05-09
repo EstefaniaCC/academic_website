@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   padding = ["20px", "0", "10px", "0"]
   
 [advanced]
-  plugins_css = ["custom"]
+  css_class = "custom"
 
 [[experience]]
   title = "Expert Researcher"

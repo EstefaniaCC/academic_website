@@ -22,7 +22,8 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-plugins_css = ["custom"]
+[advanced]
+  css_class = "custom"
 
 [[item]]
   organization = "IEEE/ACM"
