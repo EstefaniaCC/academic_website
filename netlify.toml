@@ -1,17 +1,44 @@
 [build]
+<<<<<<< HEAD
   command = "hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.55.0"
+=======
+  command = "hugo --gc --minify -b $URL --themesDir ../../"
+  base    = "exampleSite"
+  publish = "exampleSite/public"
+
+[build.environment]
+  HUGO_THEME = "repo"
+  HUGO_VERSION = "0.68.3"
+>>>>>>> fc94d9501662d7ad86a3c5e2266d356522a34d2b
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
 
 [context.deploy-preview]
+<<<<<<< HEAD
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+=======
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --themesDir ../../"
+
+[context.branch-deploy]
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL --themesDir ../../"
+
+[[headers]]
+  for = "*.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json; charset=UTF-8"
+
+[[headers]]
+  for = "index.xml"
+  [headers.values]
+    Content-Type = "application/rss+xml"
+>>>>>>> fc94d9501662d7ad86a3c5e2266d356522a34d2b
