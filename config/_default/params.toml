@@ -94,7 +94,7 @@ address = {street = "Via Sommarive 18", city = "Trento", region = "TN", postcode
 coordinates = {latitude = "46.067009", longitude = "11.151180"}
 
 # Directions for visitors to locate you.
-directions = "Smart Networks and Services (SENSE) office"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
