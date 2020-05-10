@@ -6,6 +6,6 @@ authors: ["Estefania Coronado", "Jose Villalón", "Antonio Garrido"]
 publication_types: ["5"]
 abstract: ""
 featured: false
-publication: "*Security, Privacy and Reliability in Computer Communications and Networks.*"
+publication: "*Security, Privacy and Reliability in Computer Communications and Networks*"
 ---
 
