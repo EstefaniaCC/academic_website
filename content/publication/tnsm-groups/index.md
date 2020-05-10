@@ -1,6 +1,7 @@
 ---
 title: "Efficient Real–time Content Distribution for Multiple Multicast Groups in SDN–based WLANs"
-date: 2018-01-01
+date: 2017-12-22
+doi: "https://doi.org/10.1109/TNSM.2017.2786660"
 publishDate: 2019-10-13T13:29:32.456327Z
 authors: ["Estefania Coronado", "Roberto Riggio", "Jose Villalón", "Antonio Garrido"]
 publication_types: ["2"]
