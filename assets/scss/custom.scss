@@ -96,7 +96,8 @@ element.style {
     font-weight: 700;
     font-size: 26px;
     color: #fff;
-    background: #3794de;
+    %background: #3794de;
+    background:#324191;
 }
 
 .dropdown-menu, nav#navbar-main li.nav-item {
