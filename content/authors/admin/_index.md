@@ -18,7 +18,7 @@ organizations:
   url: "https://www.fbk.eu/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include wireless and mobile communications, network slicing, SDN, NFV, AI-driven networks and automated network management..
+bio: My research interests include wireless and mobile communications, network slicing, SDN, NFV, AI-driven networks and automated network management.
 
 interests:
 - Wireless and mobile 5G systems
@@ -82,5 +82,5 @@ user_groups:
 - Visitors
 ---
 
-<p style="font-family:Roboto; font-size: 18px;" align=justify>Hello! My name is Estefanía Coronado and I am an Expert Researcher in the <a href="https://ict.fbk.eu/units/smart-networks-and-services/" target="_blank">mart Networks and Services (SENSE)</a> Unit at <a href="https://www.fbk.eu/" target="_blank">Fondazione Bruno Kessler</a> (Italy). In 2018 I completed my PhD at the <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha</a> (Spain) on multimedia distribution over SD-WLANs. I received the M.Sc. degrees in Computer Engineering and Advanced Computer Technologies in 2014 and 2015 from the same university. I have published around 25 papers in international journals and conferences. My research interests include wireless and mobile communications, network slicing, SDN, NFV, AI-driven networks and automated network management. </p>
+<p style="font-family:Roboto; font-size: 18px;" align=justify>Hello! My name is Estefanía Coronado and I am an Expert Researcher in the <a href="https://ict.fbk.eu/units/smart-networks-and-services/" target="_blank">Smart Networks and Services (SENSE)</a> Unit at <a href="https://www.fbk.eu/" target="_blank">Fondazione Bruno Kessler</a> (Italy). In 2018 I completed my PhD at the <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha</a> (Spain) on multimedia distribution over SD-WLANs. I received the M.Sc. degrees in Computer Engineering and Advanced Computer Technologies in 2014 and 2015 from the same university. I have published around 25 papers in international journals and conferences. My research interests include wireless and mobile communications, network slicing, SDN, NFV, AI-driven networks and automated network management. </p>
 
