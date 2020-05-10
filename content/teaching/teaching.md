@@ -25,8 +25,7 @@ plugins_css = ["custom"]
   location = "Albacete (Spain)"
   date_start = "2015-03-01"
   date_end = "2018-05-07"
-  description = """ Degrees and Subjects:
-  
+  description = """
   * **Feb 2018 – May 2018**. _Computer Networks (I)_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
   * **Jan 2017 – Apr 2017**. _Computer Networks (I)_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
   * **Jan 2017 – Apr 2017**. _Computer Structure_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.

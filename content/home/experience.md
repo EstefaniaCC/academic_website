@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   * Research and prototyping in programmable radio access networks.
   * Design of ML-based autonomous network management operations.
   * Research dissemination in high impact journals, international conferences and hands-on demonstrations.
-  * Contribution to R&D projects.
+  * Contribution to R&D and EC-funded projects.
   * Supervision of MSc, PhD students."""
 
 [[experience]]

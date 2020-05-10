@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Adv. Computer Technologies [Cum Laude]
+  - course: PhD in Adv. Computer Technologies **[Cum Laude]**
     institution: University of Castilla-La Mancha (Spain)
     year: 2018
     link: "https://ruidera.uclm.es/xmlui/handle/10578/18331"
