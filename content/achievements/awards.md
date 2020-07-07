@@ -38,4 +38,15 @@ plugins_css = ["custom"]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK08eYVMRzg" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   """
 
+  [[item]]
+  organization = "IEEE Netsoft"
+  organization_url = "https://netsoft2020.ieee-netsoft.org/"
+  title = "Best Demo Paper Award"
+  certificate_url = "./../publication/netsoft-2020-demo/certificate.pdf"
+  date_start = "2020-07-02"
+  date_end = ""
+  description = """
+  Paper title: Enabling Autonomous and Connected Vehicles at the 5G Network Edge.
+"""
+
 +++
