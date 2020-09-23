@@ -26,12 +26,27 @@ date_format = "Jan 2006"
   css_class = "custom"
 
 [[experience]]
+  title = "Researcher"
+  company = "Fundació i2CAT"
+  company_url = "https://i2cat.net/"
+  location = "Barcelona, Spain"
+  date_start = "2020-09-07"
+  date_end = ""
+  description = """ Responsibilities include:
+  
+  * Design and prototyping of AI-enabled MEC orchestration system in 5G networks.
+  * Design of ML-based network management operations.
+  * Research dissemination in high impact journals, international conferences and hands-on demonstrations.
+  * Contribution to R&D and EC-funded projects.
+  * Supervision of BSc, MSc and PhD students."""
+
+[[experience]]
   title = "Expert Researcher"
   company = "Fondazione Bruno Kessler"
   company_url = "https://www.fbk.eu/en/"
   location = "Trento, Italy"
   date_start = "2018-06-01"
-  date_end = ""
+  date_end = "2020-09-06"
   description = """ Responsibilities include:
   
   * Research and prototyping in programmable radio access networks.

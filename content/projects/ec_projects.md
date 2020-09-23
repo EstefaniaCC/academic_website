@@ -26,11 +26,29 @@ plugins_css = ["custom"]
 
 [[item]]
   organization = "Horizon 2020 Program"
+  organization_url = ""
+  title = "5GaaS: 5G as a Service"
+  url = ""
+  date_start = "2020-10-01"
+  date_end = "2022-08-30"
+  description = "Fundació i2CAT. Team member."
+
+[[item]]
+  organization = "Horizon 2020 Program"
+  organization_url = "https://cordis.europa.eu/project/id/957317/es"
+  title = "Affordable5G: High-tech and affordable 5G network roll-out to every corner"
+  url = "https://cordis.europa.eu/project/id/957317/es"
+  date_start = "2020-09-01"
+  date_end = "2022-08-31"
+  description = "Fundació i2CAT. Team member."
+
+[[item]]
+  organization = "Horizon 2020 Program"
   organization_url = "https://5g-ppp.eu/5g-carmen/"
   title = "5G-CARMEN: 5G for Connected and Automated Road Mobility in the European unioN - H2020-ICT-2018-825012"
   url = "https://www.5gcarmen.eu/"
   date_start = "2018-11-01"
-  date_end = "2021-10-31"
+  date_end = "2020-09-06"
   description = "Fondazione Bruno Kessler. Team member."
 
 [[item]]
