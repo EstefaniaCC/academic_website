@@ -87,7 +87,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "C\ Gran Capità 2-4 Edifici Nexus I", city = "Barcelona", region = "Spain", postcode = "08034", country = "Spain", country_code = "ES"}
+address = {street = "Carrer Gran Capità 2-4 Edifici Nexus I", city = "Barcelona", region = "Spain", postcode = "08034", country = "Spain", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
