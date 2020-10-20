@@ -18,8 +18,6 @@ date_format = "Jan 2006"
 
 plugins_css = ["custom"]
 
-Mejora de QoE en la Transmisión de Aplicaciones Multimedia en Redes Wi-Fi de Última Generación
-
 [[item]]
   title = "PhD Thesis Supervision"
   company = "University of Castilla-La Mancha"
