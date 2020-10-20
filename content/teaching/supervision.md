@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 
 plugins_css = ["custom"]
 
+Mejora de QoE en la Transmisión de Aplicaciones Multimedia en Redes Wi-Fi de Última Generación
+
+[[item]]
+  title = "PhD Thesis Supervision"
+  company = "University of Castilla-La Mancha"
+  company_url = "https://www.uclm.es"
+  location = "Albacete (Spain)"
+  date_start = "2019-10-01"
+  date_end = "2023-09-30"
+  description = """ 
+  * **2023**. _Optimizing QoE for Multimedia Applications in Next Generation Wi-Fi Networks_, Blas Gomez Mora. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  """
+
 [[item]]
   title = "MSc Thesis Supervision"
   company = "Polytechnic University of Valencia"
@@ -27,7 +40,6 @@ plugins_css = ["custom"]
   date_end = "2019-07-15"
   description = """
   * **Jul 2019**. _Association and reassociation of devices to Wi-Fi networks using SDN_ <a href="http://hdl.handle.net/10251/124494" target="_blank">(link)</a>, Blas Gomez Mora. <a href="https://www.upv.es" target="_blank">Polytechnic University of Valencia (Spain)</a>.
-
   """
 
 [[item]]
