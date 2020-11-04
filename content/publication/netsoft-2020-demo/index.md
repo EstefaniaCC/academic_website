@@ -8,6 +8,6 @@ abstract: "Connected and automated vehicles currently rely on on-board resources
 featured: false
 publication: "*Proc. of IEEE Netsoft*. Ghent, Belgium. **(Best Demo Award)**"
 url_pdf: 'certificate.pdf'
-url_video = "https://youtu.be/F8-Vlh4J_hc"
+url_video: "https://youtu.be/F8-Vlh4J_hc"
 ---
 
