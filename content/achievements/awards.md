@@ -48,7 +48,7 @@ plugins_css = ["custom"]
   date_end = ""
   description = """
   Paper title: Enabling Autonomous and Connected Vehicles at the 5G Network Edge.
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=F8-Vlh4J_hc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/F8-Vlh4J_hc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 """
 
 +++
