@@ -34,6 +34,7 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = ""
   description = """
+  * _IFIP/IEEE International Symposium on Integrated Network Management (IM)_ - 2021.
   * _IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)_ - 2020.
   * _IEEE Network Operations and Management Symposium (NOMS)_ - 2020.
   * _IEEE Conference on Innovation in Clouds, Internet and Networks (ICIN)_ - 2020, 2021.
