@@ -22,13 +22,13 @@ subtitle = ""
   icon = "wifi"
   icon_pack = "fas"
   name = "Wireless/Mobile Networks"
-  description = "Research and prototyping in Wi-Fi/5G systems leveraging SDN/NFV"
+  description = "Research and prototyping in Wi-Fi/5G systems"
 
 [[feature]]
   icon = "book-open"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Observable ML techniques applied to networking"
+  description = "Interpretable and explainable AI techniques applied to networking"
   
 #[[feature]]
 #  icon = "server"
