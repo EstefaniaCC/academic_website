@@ -28,7 +28,7 @@ subtitle = ""
   icon = "book-open"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Interpretable and explainable AI techniques applied to networking"
+  description = "XAI and DL techniques applied to networking"
   
 #[[feature]]
 #  icon = "server"
