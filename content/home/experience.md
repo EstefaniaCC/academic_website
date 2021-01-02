@@ -38,6 +38,7 @@ date_format = "Jan 2006"
   * Design of ML-based network management operations.
   * Research dissemination in high impact journals, international conferences and hands-on demonstrations.
   * Contribution to R&D and EC-funded projects.
+  * Work Package and Task Leader in H2020 projects.
   * Supervision of BSc, MSc and PhD students."""
 
 [[experience]]

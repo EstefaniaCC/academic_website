@@ -27,8 +27,17 @@ plugins_css = ["custom"]
 [[item]]
   organization = "Horizon 2020 Program"
   organization_url = ""
-  title = "5GaaS: 5G as a Service"
+  title = "AI@EDGE"
   url = ""
+  date_start = "2021-01-01"
+  date_end = "2023-12-31"
+  description = "Fundació i2CAT. Team member. Work Package Leader. Task Leader."
+
+[[item]]
+  organization = "Horizon 2020 Program"
+  organization_url = "https://cordis.europa.eu/project/id/958832"
+  title = "5GaaS: 5G as a Service"
+  url = "https://5gaas.eu/"
   date_start = "2020-10-01"
   date_end = "2022-08-30"
   description = "Fundació i2CAT. Team member."
