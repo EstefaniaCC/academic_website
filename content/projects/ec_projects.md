@@ -40,7 +40,7 @@ plugins_css = ["custom"]
   url = "https://5gaas.eu/"
   date_start = "2020-10-01"
   date_end = "2022-08-30"
-  description = "Fundació i2CAT. Team member."
+  description = "Fundació i2CAT. Team member.  Task Leader."
 
 [[item]]
   organization = "Horizon 2020 Program"
