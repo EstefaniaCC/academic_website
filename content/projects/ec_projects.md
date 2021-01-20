@@ -24,6 +24,14 @@ date_format = "Jan 2006"
 
 plugins_css = ["custom"]
 
+[[item]]
+  organization = "Horizon 2020 Program"
+  organization_url = ""
+  title = "AI@EDGE"
+  url = ""
+  date_start = "2021-01-01"
+  date_end = "2023-12-31"
+  description = "Fundació i2CAT. Team member. Task Leader."
 
 [[item]]
   organization = "Horizon 2020 Program"
