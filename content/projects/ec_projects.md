@@ -26,7 +26,7 @@ plugins_css = ["custom"]
 
 [[item]]
   organization = "Horizon 2020 Program"
-  organization_url = ""
+  organization_url = "https://cordis.europa.eu/project/id/101015922"
   title = "AI@EDGE"
   url = ""
   date_start = "2021-01-01"
