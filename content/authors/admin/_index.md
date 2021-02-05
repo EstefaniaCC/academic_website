@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -82,5 +82,5 @@ user_groups:
 - Visitors
 ---
 
-<p style="font-family:Roboto; font-size: 18px;" align=justify>Hello! My name is Estefanía Coronado and I am a researcher in the Software Networks area at <a href="https://i2cat.net/" target="_blank">Fundació i2CAT</a> (Spain). From 2018 to 2020 I was an expert researcher at <a href="https://www.fbk.eu/" target="_blank">Fondazione Bruno Kessler</a> (Italy). In 2018 I completed my PhD at the <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha</a> (Spain) on multimedia distribution over SD-WLANs using ML techniques. I received the M.Sc. degrees in Computer Engineering and Advanced Computer Technologies in 2014 and 2015 from the same university. I have published around 30 papers in international journals and conferences, and received the IEEE INFOCOM Best Demo Award 2019. My research interests include wireless and mobile communications, MEC systems, network slicing, SDN, NFV, AI-driven networks and automated network management. </p>
+<p style="font-family:Roboto; font-size: 18px;" align=justify>Hello! My name is Estefanía Coronado and I am a Senior Researcher in the Software Networks area at <a href="https://i2cat.net/" target="_blank">Fundació i2CAT</a> (Spain). From 2018 to 2020 I was an Expert Researcher at <a href="https://www.fbk.eu/" target="_blank">Fondazione Bruno Kessler</a> (Italy). In 2018 I completed my PhD at the <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha</a> (Spain) on multimedia distribution over SD-WLANs using ML techniques. I received the M.Sc. degrees in Computer Engineering and Advanced Computer Technologies in 2014 and 2015 from the same university. I have published around 30 papers in international journals and conferences, and received the IEEE INFOCOM Best Demo Award 2019. My research interests include wireless and mobile communications, MEC systems, network slicing, SDN, NFV, AI-driven networks and automated network management. </p>
 

@@ -26,19 +26,35 @@ date_format = "Jan 2006"
   css_class = "custom"
 
 [[experience]]
+  title = "Senior Researcher"
+  company = "Fundació i2CAT"
+  company_url = "https://i2cat.net/"
+  location = "Barcelona, Spain"
+  date_start = "2021-01-001"
+  date_end = ""
+  description = """ Responsibilities include:
+  
+  * Research on of AI-enabled MEC orchestration system in 5G networks.
+  * Design of ML-based network management approaches.
+  * Research dissemination in high impact journals, international conferences and hands-on demonstrations.
+  * Contribution to EC-funded projects (Task Leader, research contribution, and deliverables writing).
+  * Contribution to Spanish national projects (management, research contribution, and proposal writing).
+  * Supervision of BSc, MSc and PhD students."""
+ 
+
+[[experience]]
   title = "Researcher"
   company = "Fundació i2CAT"
   company_url = "https://i2cat.net/"
   location = "Barcelona, Spain"
   date_start = "2020-09-07"
-  date_end = ""
+  date_end = "2020-12-31"
   description = """ Responsibilities include:
   
-  * Design and prototyping of AI-enabled MEC orchestration system in 5G networks.
-  * Design of ML-based network management operations.
+  * Research on MEC and network slicing systems in 5G networks.
+  * Design of ML-based network management approaches.
   * Research dissemination in high impact journals, international conferences and hands-on demonstrations.
-  * Contribution to R&D and EC-funded projects.
-  * Task Leader in H2020 projects.
+  * Contribution to EC-funded projects.
   * Supervision of BSc, MSc and PhD students."""
 
 [[experience]]
