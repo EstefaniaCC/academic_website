@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   company = "Fundació i2CAT"
   company_url = "https://i2cat.net/"
   location = "Barcelona, Spain"
-  date_start = "2021-01-001"
+  date_start = "2021-01-01"
   date_end = ""
   description = """ Responsibilities include:
   
