@@ -6,6 +6,7 @@ authors: ["Blas Gomez", "Estefania Coronado", "Jose Villalón", "Roberto Riggio"
 publication_types: ["1"]
 abstract: ""
 featured: false
+doi: 10.1109/WCNC45663.2020.9120793
 publication: "*Proc. of IEEE WCNC*"
 ---
 
