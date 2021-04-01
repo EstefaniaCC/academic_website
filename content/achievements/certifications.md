@@ -29,7 +29,7 @@ plugins_css = ["custom"]
   organization_url = "http://www.aneca.es/"
   title = "Spanish Assistant Professor Certification (Prof. Contratado Doctor)"
   certificate_url = ""
-  date_start = "2021-03-26"
-  date_end = ""
+  date_start = "2018-07-26"
+  date_end = "2021-03-26"
   description = ""
 +++
