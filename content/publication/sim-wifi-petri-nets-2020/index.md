@@ -1,7 +1,7 @@
 ---
 title: "Modeling and Simulation of the IEEE 802.11e Wireless Protocol with Hidden Nodes using Colored Petri Nets"
-date: 2020-01-01
-publishDate: 2020-06-28T18:42:35.591926Z
+date: 2021-01-01
+publishDate: 2021-01-28T18:42:35.591926Z
 doi: "https://doi.org/10.1007/s10270-020-00817-2"
 authors: ["Estefania Coronado", "Valentin Valero", "Luis O. Barbosa", "Maria E. Cambronero", "Fernando L. Pelayo"]
 publication_types: ["2"]
