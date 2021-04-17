@@ -1,5 +1,5 @@
 ---
-title: "AI@EDGE: A Secure and Reusable Artificial Intelligence Platform for Edge Computing"
+title: "AI AT EDGE: A Secure and Reusable Artificial Intelligence Platform for Edge Computing"
 date: 2021-06-08
 publishDate: 2021-06-08T13:29:32.459385Z
 authors: ["Roberto Riggio", "Estefanía Coronado", "Neiva Linder", "Adzic Jovanka", "Gianpiero Mastinu", "Leonardo Goratti", "Miguel Rosa", "Hans Dieter Schotten", "Marco Pistore"]
