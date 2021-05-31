@@ -1,7 +1,7 @@
 ---
 title: "ONIX: Open Radio Network Information eXchange"
-date: 2021-05-35
-publishDate: 2021-05-31T18:42:35.591926Z
+date: 2021-05-30
+publishDate: 2021-05-30T18:42:35.591926Z
 doi: ""
 authors: ["Estefania Coronado", "Francesco Raviglione", "Marco Malinverno", "Claudio Casetti", "Ana Cantarero", "Gabriel Cebrián-Márquez", "Roberto Riggio"]
 publication_types: ["2"]
