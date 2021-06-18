@@ -32,7 +32,6 @@ plugins_css = ["custom"]
   date_start = "2021-03-26"
   date_end = ""
   description = ""
-+++
 
 [[item]]
   organization = "Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA)"
