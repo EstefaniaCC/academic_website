@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 22  # Order that this section will appear.
 
-title = "Publications"
-subtitle = "Book Chapters"
+title = "Book Chapters"
+subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
