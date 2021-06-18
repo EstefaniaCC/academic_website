@@ -27,9 +27,19 @@ plugins_css = ["custom"]
 [[item]]
   organization = "Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA)"
   organization_url = "http://www.aneca.es/"
-  title = "Spanish Assistant Professor Certification (Prof. Contratado Doctor)"
+  title = "Spanish Assistant Professor Certification 2 (Prof. Contratado Doctor)"
   certificate_url = ""
   date_start = "2021-03-26"
+  date_end = ""
+  description = ""
++++
+
+[[item]]
+  organization = "Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA)"
+  organization_url = "http://www.aneca.es/"
+  title = "Spanish Assistant Professor Certification 1 (Prof. Ayudante Doctor)"
+  certificate_url = ""
+  date_start = "2018-09-01"
   date_end = ""
   description = ""
 +++
