@@ -39,10 +39,10 @@ plugins_css = ["custom"]
   company = "Universitat Rovira i Virgili"
   company_url = "https://www.urv.cat/es/"
   location = "Barcelona (Spain)"
-  date_start = "2021-05-26"
+  date_start = "2021-04-06"
   date_end = "2021-06-13"
   description = """
-  * **May 2021 – June 2021**. _Curso 5GxFP (Formación del profesorado de FP) - Infraestructuras Cloud/EdgeComputer Networks (I)_, <a href="https://sites.google.com/xtec.cat/5gxfp/inici/" target="_blank">5GxFP</a>.
+  * **Apr 2021 – June 2021**. _Curso 5GxFP (Formación del profesorado de FP) - Infraestructuras Cloud/EdgeComputer Networks (I)_, <a href="https://sites.google.com/xtec.cat/5gxfp/inici/" target="_blank">5GxFP</a>.
 """
 
 +++
