@@ -2,6 +2,7 @@
 title: "Demo: Deploying Transparent Applications at the Network Edges with LightEdge"
 date: 2020-04-01
 publishDate: 2020-03-08T19:04:51.011576Z
+doi: "https://doi.org/10.1109/NOMS47738.2020.9110398"
 authors: ["Estefania Coronado", "Zarrar Yousaf", "Roberto Riggio"]
 publication_types: ["1"]
 abstract: "The deployment of applications and services at the edge of the mobile network under the Multi-access Edge Computing (MEC) paradigm is an excellent option when strict latency requirements must be satisfied. In this work we introduce LightEdge, a lightweight, ETSI-compliant transparent

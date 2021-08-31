@@ -2,6 +2,7 @@
 title: "Demo: A Network Slicing Solution for Flexible Resource Allocation in SDN-based WLANs"
 date: 2020-05-01
 publishDate: 2020-02-07T11:11:41.162107Z
+doi: "https://doi.org/10.1109/WCNCW48565.2020.9124869"
 authors: ["Estefania Coronado", "Blas Gomez", "Roberto Riggio"]
 publication_types: ["1"]
 abstract: ""
