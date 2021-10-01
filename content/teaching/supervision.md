@@ -37,6 +37,7 @@ plugins_css = ["custom"]
   date_start = "2018-10-01"
   date_end = "2019-07-15"
   description = """
+   * **Sep 2021**. _Design and analysis of fully virtualized cellular networks based on open-source frameworks_ <a href="https://mitra.upc.es/SIA/PFC_PUBLICA.DADES_PFC?w_codipfc=10218" target="_blank">(link)</a>, Javier Palomares Torrecilla. <a href="https://www.upv.es" target="_blank">Universitat Politècnica de Catalunya (Spain)</a>.
   * **Jul 2019**. _Association and reassociation of devices to Wi-Fi networks using SDN_ <a href="http://hdl.handle.net/10251/124494" target="_blank">(link)</a>, Blas Gomez Mora. <a href="https://www.upv.es" target="_blank">Polytechnic University of Valencia (Spain)</a>.
   """
 
