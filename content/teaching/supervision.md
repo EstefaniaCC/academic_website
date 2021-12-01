@@ -35,9 +35,10 @@ plugins_css = ["custom"]
   company_url = "https://www.upv.es"
   location = "Valencia (Spain)"
   date_start = "2018-10-01"
-  date_end = "2019-07-15"
+  date_end = "2021-10-15"
   description = """
-   * **Sep 2021**. _Design and analysis of fully virtualized cellular networks based on open-source frameworks_ <a href="https://mitra.upc.es/SIA/PFC_PUBLICA.DADES_PFC?w_codipfc=10218" target="_blank">(link)</a>, Javier Palomares Torrecilla. <a href="https://www.upc.edu/en?set_language=en" target="_blank">Universitat Politècnica de Catalunya (Spain)</a>.
+  * **Oct 2021**. _“Design and Evaluation of AI-based resource prediction approaches for network slicing_ <a href="https://mitra.upc.es/SIA/PFC_PUBLICA.DADES_PFC?w_codipfc=10375" target="_blank">(link)</a>, Juan Sebastián Camargo Barragan. <a href="https://www.upc.edu/en?set_language=en" target="_blank">Universitat Politècnica de Catalunya (Spain)</a>.
+  * **Sep 2021**. _Design and analysis of fully virtualized cellular networks based on open-source frameworks_ <a href="https://mitra.upc.es/SIA/PFC_PUBLICA.DADES_PFC?w_codipfc=10218" target="_blank">(link)</a>, Javier Palomares Torrecilla. <a href="https://www.upc.edu/en?set_language=en" target="_blank">Universitat Politècnica de Catalunya (Spain)</a>.
   * **Jul 2019**. _Association and reassociation of devices to Wi-Fi networks using SDN_ <a href="http://hdl.handle.net/10251/124494" target="_blank">(link)</a>, Blas Gomez Mora. <a href="https://www.upv.es" target="_blank">Polytechnic University of Valencia (Spain)</a>.
   """
 

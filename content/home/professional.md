@@ -34,11 +34,11 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = ""
   description = """
-  * _IEEE International Conference on Computer Communications and Networks (ICCCN)_ - 2021.
+  * _IEEE International Conference on Computer Communications and Networks (ICCCN)_ - 2021, 2022.
   * _IFIP/IEEE International Symposium on Integrated Network Management (IM)_ - 2021.
   * _IEEE International Symposium on Personal, Indoor & Mobile Radio Comm. (PIMRC)_ - 2020.
-  * _IEEE Network Operations and Management Symposium (NOMS)_ - 2020.
-  * _IEEE Conference on Innovation in Clouds, Internet and Networks (ICIN)_ - 2020, 2021.
+  * _IEEE Network Operations and Management Symposium (NOMS)_ - 2020, 2022.
+  * _IEEE Conference on Innovation in Clouds, Internet and Networks (ICIN)_ - 2020, 2021, 2022.
   * _IEEE International Conference on Network Softwarization (Netsoft)_ - 2020, 2021.
   * _IEEE International Conference on Fog and Mobile Edge Computing (FMEC)_ - 2019, 2020.
   * _IEEE International Conference on Network of the Future (NoF)_ - 2019, 2020, 2021.
