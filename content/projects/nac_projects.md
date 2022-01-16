@@ -27,9 +27,17 @@ plugins_css = ["custom"]
 [[item]]
   organization = "Spanish Ministry of Science, Innovation and Universities"
   organization_url = "http://www.ciencia.gob.es/"
+  title = "ONOFRE-2 - Convergencia en Redes Ópticas para la Internet del Futuro - 2 - TEC2017-84423-C3-3-P"
+  date_start = "2021-02-04"
+  date_end = "2021-09-30"
+  description = "I2CAT Foundation. Subproject 3 Principal Investigator."
+
+[[item]]
+  organization = "Spanish Ministry of Science, Innovation and Universities"
+  organization_url = "http://www.ciencia.gob.es/"
   title = "Innovative technologies and applications for data centres and high performance systems - RTI2018-098156-B-C52"
   date_start = "2019-01-01"
-  date_end = "2021-12-31"
+  date_end = "2021-02-03"
   description = "University of Castilla-La Mancha. Team member."
 
 [[item]]

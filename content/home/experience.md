@@ -26,6 +26,15 @@ date_format = "Jan 2006"
   css_class = "custom"
 
 [[experience]]
+  title = "Part-time Professor"
+  company = "University of Castilla-La Mancha"
+  company_url =  "https://www.uclm.es"
+  location = "Albacete, Spain"
+  date_start = "2022-01-12"
+  date_end = ""
+  description = """ Courses teaching and BSc/MSc students supervision """
+
+[[experience]]
   title = "Senior Researcher"
   company = "Fundació i2CAT"
   company_url = "https://i2cat.net/"
@@ -77,7 +86,7 @@ date_format = "Jan 2006"
   company = "University of Castilla-La Mancha"
   company_url =  "https://www.uclm.es"
   location = "Albacete, Spain"
-  date_start = "2014-06-01"
+  date_start = "2015-06-01"
   date_end = "2018-05-31"
   description = "Design of ML algorithms for QoS provisioning and prototyping in programmable IEEE 802.11 networks."
 
@@ -95,8 +104,8 @@ date_format = "Jan 2006"
   company = "University of Castilla-La Mancha"
   company_url = "https://www.uclm.es/"
   location = "Albacete, Spain"
-  date_start = "2013-10-01"
-  date_end = "2014-05-31"
+  date_start = "2014-10-01"
+  date_end = "2015-05-31"
   description = "Improvement of video streaming efficiency over IEEE 802.11 WLANs."
 
 +++
