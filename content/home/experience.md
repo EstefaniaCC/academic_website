@@ -32,7 +32,9 @@ date_format = "Jan 2006"
   location = "Albacete, Spain"
   date_start = "2022-01-12"
   date_end = ""
-  description = """ Courses teaching and BSc/MSc students supervision """
+  description = """ Responsabilities include:
+  * Teaching on courses on Integration of Information Systems, Computer Networks I and Computer Networks II on the Computer Science Degree.
+  * BSc/MSc students supervision """
 
 [[experience]]
   title = "Senior Researcher"
