@@ -45,4 +45,17 @@ plugins_css = ["custom"]
   * **Apr 2021 – June 2021**. _Curso 5GxFP (Formación del profesorado de FP) - Infraestructuras Cloud/EdgeComputer Networks (I)_, <a href="https://sites.google.com/xtec.cat/5gxfp/inici/" target="_blank">5GxFP</a>.
 """
 
+[[item]]
+  title = "Part-Time Professor"
+  company = "University of Castilla-La Mancha"
+  company_url = "https://www.uclm.es"
+  location = "Albacete (Spain)"
+  date_start = "2022-01-01"
+  date_end = "2022-08-31"
+  description = """
+  * **Jan 2022 – Aug 2022**. _Integration of Computer Systems_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  * **Feb 2022 – Aug 2022**. _Computer Networks (I)_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  * **Mar 2022 – Aug 2022**. _Computer Networks (II)_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+"""
+
 +++
