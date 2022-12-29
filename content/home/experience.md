@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   company_url =  "https://www.uclm.es"
   location = "Albacete, Spain"
   date_start = "2022-01-12"
-  date_end = ""
+  date_end = "2022-08-30"
   description = """ Responsabilities include:
   * Teaching on courses on Integration of Information Systems, Computer Networks I and Computer Networks II on the Computer Science Degree.
   * BSc/MSc students supervision """
@@ -52,6 +52,20 @@ date_format = "Jan 2006"
   * Contribution to Spanish national projects (management, research contribution, and proposal writing).
   * Supervision of BSc, MSc and PhD students."""
  
+
+[[experience]]
+  title = "Senior Researcher"
+  company = "University of Castilla-La Mancha"
+  company_url = "https://uclm.es"
+  location = "Albacete, Spain"
+  date_start = "2022-09-01"
+  date_end = ""
+  description = """ Responsibilities include:
+  
+  * Research on of AI-enabled adaptive QoS management in cellular and Wi-Fi networks.
+  * Research dissemination in high impact journals, international conferences and hands-on demonstrations.
+  * Contribution to Spanish national and regional projects (management, research contribution, and proposal writing).
+  * Supervision of BSc, MSc and PhD students."""
 
 [[experience]]
   title = "Researcher"
