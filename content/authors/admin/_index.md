@@ -14,6 +14,8 @@ role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
+- name: Universidad de Castilla-La Mancha (Spain)
+  url: "https://uclm.es/"
 - name: Fundació i2CAT (Spain)
   url: "https://i2cat.net/"
 
