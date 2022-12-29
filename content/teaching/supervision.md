@@ -26,7 +26,9 @@ plugins_css = ["custom"]
   date_start = "2019-10-01"
   date_end = "2023-09-30"
   description = """ 
-  * **2023**. _Optimizing QoE for Multimedia Applications in Next Generation Wi-Fi Networks_, Blas Gomez Mora. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  * **2024**. _Optimizing QoE for Multimedia Applications in Next Generation Wi-Fi Networks_, PhD Programme in Advanced Computer Tecnologies. Student: Blas Gomez Mora. Supervisors: José Miguel Villalón Millán, Antonio Garrido Del Solo, Estefanía Coronado. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  * **2024**. _Contributions to Resource Allocation in dynamic environments with Machine Learning Methods_, PhD Programme in Network Engineering. Student: Claudia Torres Pérez. Supervisors: Cristina Cervelló-Pastor, Shuaib Siddiqui, Estefanía Coronado. <a href="https://www.upc.edu/" target="_blank">Universitat Politecnica de Catalunya (Spain)</a>.
+   * **2025**. _Smart distributed orchestration for 6G networks in the Edge-to-Cloud Continuum_, PhD Programme in Network Engineering. Student: Javier Palomares Torrecilla.  Supervisors: Cristina Cervelló-Pastor, Shuaib Siddiqui, Estefanía Coronado. <a href="https://www.upc.edu/" target="_blank">Universitat Politecnica de Catalunya (Spain)</a>.
   """
 
 [[item]]
