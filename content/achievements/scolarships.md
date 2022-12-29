@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Scholarships"
+title = "Grants and Scholarships"
 subtitle = ""
 
 # Date format
@@ -24,6 +24,15 @@ date_format = "Jan 2006"
 
 plugins_css = ["custom"]
 
+[[item]]
+  organization = "Ministry of Science and Innovation of Spain"
+  organization_url = "https://www.aei.gob.es/"
+  title = "Juan de la Cierva Incorporación Grant. State Program for the Promotion of Talent and its Employability in R+D+I"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-09-01"
+  date_end = "2025-08-30"
+  description = ""
 
 [[item]]
   organization = "Ministry of Economy and Competitiveness of Spain"
