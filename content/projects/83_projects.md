@@ -27,6 +27,15 @@ plugins_css = ["custom"]
 [[item]]
   organization = "Articulo 83"
   organization_url = ""
+  title = "Optimization of Edge technologies in 6G networks based on AI/ML methods"
+  date_start = "2022-09-01"
+  date_end = "2024-03-31"
+  description = "Fundación i2CAT - University of Castilla-La Mancha. Team member."
++++
+
+[[item]]
+  organization = "Articulo 83"
+  organization_url = ""
   title = "Research and Development activities within the priorities of the Future Networks Area at CREATE-NET"
   date_start = "2017-09-01"
   date_end = "2017-12-01"
@@ -39,5 +48,4 @@ plugins_css = ["custom"]
   date_start = "2016-09-01"
   date_end = "2016-12-01"
   description = "University of Castilla-La Mancha. Team member."
-
 +++

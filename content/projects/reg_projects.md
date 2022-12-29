@@ -33,4 +33,12 @@ plugins_css = ["custom"]
   date_end = "2021-08-31"
   description = "University of Castilla-La Mancha. Team member."
 
+  [[item]]
+  organization = "Castilla-La Mancha Regional Government"
+  organization_url = ""
+  title = "Improvement in the processes of codification and safe video distribution via MEC platforms. - SBPLY/21/180501/000195"
+  date_start = "2022-09-01"
+  date_end = "2025-08-31"
+  description = "University of Castilla-La Mancha. Team member."
+
 +++
