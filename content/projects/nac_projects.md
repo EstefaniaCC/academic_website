@@ -25,6 +25,14 @@ date_format = "Jan 2006"
 plugins_css = ["custom"]
 
 [[item]]
+  organization = "Spanish Ministry of Digital Transformation"
+  organization_url = "http://www.espanadigital.gob.es/"
+  title = "6GENABLERS - Subproyect 1"
+  date_start = "2021-07-30"
+  date_end = "2022-08-30"
+  description = "I2CAT Foundation. Subproject 1 Principal Investigator. Proposal preparation and leading."
+
+[[item]]
   organization = "Spanish Ministry of Science, Innovation and Universities"
   organization_url = "http://www.ciencia.gob.es/"
   title = "ONOFRE-2 - Convergencia en Redes Ópticas para la Internet del Futuro - 2 - TEC2017-84423-C3-3-P"
