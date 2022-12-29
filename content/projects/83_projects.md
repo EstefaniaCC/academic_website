@@ -31,7 +31,6 @@ plugins_css = ["custom"]
   date_start = "2022-09-01"
   date_end = "2024-03-31"
   description = "Fundación i2CAT - University of Castilla-La Mancha. Team member."
-+++
 
 [[item]]
   organization = "Articulo 83"
