@@ -58,4 +58,15 @@ plugins_css = ["custom"]
   * **Mar 2022 – Aug 2022**. _Computer Networks (II)_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
 """
 
+[[item]]
+  title = "Professor"
+  company = "University of Castilla-La Mancha"
+  company_url = "https://www.uclm.es"
+  location = "Albacete (Spain)"
+  date_start = "2022-09-01"
+  date_end = ""
+  description = """
+  * **Sep 2022 – Jul 2023**.  _Computer Networks (I)_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+"""
+
 +++
