@@ -30,7 +30,7 @@ plugins_css = ["custom"]
   title = "Optimization of Edge technologies in 6G networks based on AI/ML methods"
   date_start = "2022-09-01"
   date_end = "2024-03-31"
-  description = "Fundación i2CAT - University of Castilla-La Mancha. Team member."
+  description = "Fundación i2CAT - University of Castilla-La Mancha. Principal Investigator."
 
 [[item]]
   organization = "Articulo 83"
