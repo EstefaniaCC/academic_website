@@ -1,6 +1,6 @@
 ---
 title: "Design and Evaluation of a K8s-based System for Distributed Open-Source Cellular Networks"
-date: 2022-06-10
+date: 2023-06-10
 publishDate: 2023-06-30T13:29:32.458568Z
 doi: ""
 authors: ["Javier Palomares", "Estefania Coronado", "David Rincón", "Shuaib Siddiqui"]

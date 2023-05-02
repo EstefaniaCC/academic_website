@@ -1,8 +1,7 @@
 ---
 title: "DQN-based Intelligent Application Placement withDelay-Priority in Multi MEC Systems"
-date: 2022-06-06
+date: 2023-06-06
 publishDate: 2023-06-06T13:29:32.458568Z
-doi: ""
 authors: ["Juan Sebastián Camargo", "Estefania Coronado", "Claudia Torres-Pérez", "Javier Palomares", "Shuaib Siddiqui"]
 publication_types: ["1"]
 abstract: "In 5G Multi-access Edge Computing (MEC) is critical to bring computing and processing closer to users and
