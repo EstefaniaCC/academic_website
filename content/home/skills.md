@@ -22,7 +22,7 @@ subtitle = ""
   icon = "wifi"
   icon_pack = "fas"
   name = "AI-based Networks"
-  description = "Research in Wi-Fi, 5G and 6G systems enabled by AI"
+  description = "Research in Wi-Fi, 5G and 6G systems enabled by AI-based management systems"
 
 [[feature]]
   icon = "book-open"
