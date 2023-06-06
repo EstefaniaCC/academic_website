@@ -28,7 +28,7 @@ subtitle = ""
   icon = "book-open"
   icon_pack = "fas"
   name = "Teaching and Supervision"
-  description = "Computer Science Teaching and BSc, MSc and PhD superivision"
+  description = "Computer Science teaching and BSc, MSc and PhD students superivision"
   
 #[[feature]]
 #  icon = "server"
