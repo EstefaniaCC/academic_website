@@ -21,7 +21,7 @@ subtitle = ""
 [[feature]]
   icon = "wifi"
   icon_pack = "fas"
-  name = "AI-based Wireless/Mobile Networks"
+  name = "AI-based Networks"
   description = "Research in Wi-Fi, 5G and 6G systems enabled by AI"
 
 [[feature]]
