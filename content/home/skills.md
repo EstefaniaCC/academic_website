@@ -21,14 +21,14 @@ subtitle = ""
 [[feature]]
   icon = "wifi"
   icon_pack = "fas"
-  name = "Wireless/Mobile Networks"
-  description = "Research and prototyping in Wi-Fi/5G systems"
+  name = "AI-based Wireless/Mobile Networks"
+  description = "Research in Wi-Fi, 5G and 6G systems enabled by AI"
 
 [[feature]]
   icon = "book-open"
   icon_pack = "fas"
-  name = "Machine Learning"
-  description = "XAI and DL techniques applied to networking"
+  name = "Teaching and Supervision"
+  description = "Computer Science Teaching and BSc, MSc and PhD superivision"
   
 #[[feature]]
 #  icon = "server"
@@ -39,8 +39,8 @@ subtitle = ""
 [[feature]]
   icon = "spinner"
   icon_pack = "fas"
-  name = "Programming Skills"
-  description = "C/C++, Python, Bash, Java"
+  name = "Research Management"
+  description = "Research project management, proposal writing and research leadership"
 
 #[[feature]]
 #  icon = "language"

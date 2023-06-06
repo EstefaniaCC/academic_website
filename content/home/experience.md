@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """ Responsibilities include:
   
-  * Research on of AI-enabled MEC orchestration system in 5G networks.
+  * Research on of AI-enabled MEC orchestration system in 5G and 6G networks.
   * Design of ML-based network management approaches.
   * Research dissemination in high impact journals, international conferences and hands-on demonstrations.
   * Contribution to EC-funded projects (Task Leader, research contribution, and deliverables writing).
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """ Responsibilities include:
   
-  * Research on of AI-enabled adaptive QoS management in cellular and Wi-Fi networks.
+  * Research on of AI-enabled adaptive QoS management in 5G and Wi-Fi networks.
   * Research dissemination in high impact journals, international conferences and hands-on demonstrations.
   * Contribution to Spanish national and regional projects (management, research contribution, and proposal writing).
   * Supervision of BSc, MSc and PhD students."""
