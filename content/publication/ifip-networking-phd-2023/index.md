@@ -1,7 +1,7 @@
 ---
 title: "Service Management in Dynamic Edge Environments"
-date: 2023-06-14
-publishDate: 2023-06-14T19:04:51.011143Z
+date: 2023-06-13
+publishDate: 2023-06-13T19:04:51.011143Z
 doi: "https://doi.org/10.1109/NOMS47738.2020.9110424"
 authors: ["Claudia Torres-Pérez", "Cristina Cervelló-Pastor", "Estefanía Coronado", "Muhammad Shuaib Siddiqui"]
 publication_types: ["1"]
