@@ -26,6 +26,17 @@ date_format = "Jan 2006"
   css_class = "custom"
 
 [[item]]
+organization = "IEEE/ACM"
+organization_url = ""
+title = "Organizing Committee Member"
+url = ""
+certificate_url = ""
+date_start = "2023-05-01"
+date_end = ""
+description = """
+* _IEEE Conference on Innovation in Clouds, Internet and Networks (ICIN)_ - Workshop Co-Chair - 2024.
+
+[[item]]
   organization = "IEEE/ACM"
   organization_url = ""
   title = "Technical Program Committee Member"
