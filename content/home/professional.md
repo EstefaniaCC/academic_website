@@ -35,6 +35,7 @@ date_start = "2023-05-01"
 date_end = ""
 description = """
 * _IEEE Conference on Innovation in Clouds, Internet and Networks (ICIN)_ - Workshop Co-Chair - 2024.
+ """
 
 [[item]]
   organization = "IEEE/ACM"
