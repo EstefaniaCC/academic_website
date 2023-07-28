@@ -52,7 +52,8 @@ plugins_css = ["custom"]
   date_start = "2014-10-01"
   date_end = "2018-06-15"
   description = """
-
+  * **Jul 2023**. _Integration of Wi-Fi telemetry information into a MEC architecture_, Joaquín García Luján. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  * **Jul 2023**. _Evaluation of a 5G New Radio network simulator_, Mario Redondo Olmo. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
    * **Jun 2018**. _Extension of a network management system based on Nagios_, Cristian Cano del Saz. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
    * **Feb 2017**. _Analysis of a public wireless network_, Leopoldo Moreno Gonzalez. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
    * **Jun 2015**. _Design of a network control system based on Arduino_, Jeferson Arboleda Sanchez. <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
