@@ -66,8 +66,8 @@ plugins_css = ["custom"]
   date_start = "2022-09-01"
   date_end = ""
   description = """
-  * **Sep 2022 – Jul 2023**.  _Computer Networks (I)_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
   * **Sep 2023 – Jul 2024**.  _Computer Networks (I)_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
+  * **Sep 2022 – Jul 2023**.  _Computer Networks (I)_. Computer Science Degree, <a href="https://www.uclm.es/" target="_blank">Univ. of Castilla-La Mancha (Spain)</a>.
 """
 
 +++
