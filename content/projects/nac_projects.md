@@ -25,6 +25,14 @@ date_format = "Jan 2006"
 plugins_css = ["custom"]
 
 [[item]]
+  organization = "Spanish Ministry of Science and Innovation"
+  organization_url = "http://www.espanadigital.gob.es/"
+  title = "I-CONDA: Intelligent edge and cloud Computing Orchestration in multi-access radio Networks for Delay sensitive Applications"
+  date_start = "2023-09-01"
+  date_end = "2026-08-31"
+  description = "UCLM. Principal Investigator. Proposal preparation and leading."
+
+[[item]]
   organization = "Spanish Ministry of Digital Transformation"
   organization_url = "http://www.espanadigital.gob.es/"
   title = "6GENABLERS - Subproyect 1"
