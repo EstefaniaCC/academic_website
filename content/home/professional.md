@@ -48,7 +48,7 @@ description = """
   description = """
   * _IEEE International Conference on Computer Communications and Networks (ICCCN)_ - 2021, 2022.
   * _IFIP/IEEE International Symposium on Integrated Network Management (IM)_ - 2021.
-  * _IEEE International Symposium on Personal, Indoor & Mobile Radio Comm. (PIMRC)_ - 2020.
+  * _IEEE International Symposium on Personal, Indoor & Mobile Radio Comm. (PIMRC)_ - 2020, 2023.
   * _IEEE Network Operations and Management Symposium (NOMS)_ - 2020, 2022.
   * _IEEE Conference on Innovation in Clouds, Internet and Networks (ICIN)_ - 2020, 2021, 2022, 2023.
   * _IEEE International Conference on Network Softwarization (Netsoft)_ - 2020, 2021, 2023.
